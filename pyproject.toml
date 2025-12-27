@@ -1,0 +1,40 @@
+[project]
+name = "ruyi-checker-bot"
+version = "0.1.0"
+description = ""
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [
+    { name = "inspiremenow" },
+]
+keywords = ["ruyi", "packaging", "riscv", "checker-bot"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+]
+
+dependencies = [
+    "httpx",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+# Hatchling build configuration
+[tool.hatch.build.targets.wheel]
+packages = ["checker"]
+
+[tool.hatch.build.targets.sdist]
+include = [
+    "/checker",
+    "/package",
+    "/config",
+    "/README.md",
+]
