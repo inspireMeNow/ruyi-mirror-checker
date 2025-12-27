@@ -1,0 +1,3 @@
+[submodule "packages-index"]
+	path = packages-index
+	url = https://github.com/ruyisdk/packages-index.git
