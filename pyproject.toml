@@ -21,6 +21,8 @@ classifiers = [
 
 dependencies = [
     "httpx",
+    "fastapi",
+    "uvicorn",
 ]
 
 [build-system]

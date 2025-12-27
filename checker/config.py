@@ -1,5 +1,3 @@
-from __future__ import annotations
-
 import json
 import os
 from pathlib import Path
@@ -53,9 +51,3 @@ def load_mirror_config(repo_root: Path | str) -> Dict[str, Dict[str, List[str]]]
         data = tomllib.load(f)
 
     return data.get("mirrors", {})
-
-
-if __name__ == "__main__":
-    repo_root = Path(os.getenv("REPO_ROOT", ".")).resolve()
-    parsed = load_configs_as_dict(repo_root)
-    print(json.dumps(parsed, ensure_ascii=False, indent=2))
