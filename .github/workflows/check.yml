@@ -1,0 +1,41 @@
+name: shadowrocket modules
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 3 * * *"
+  push:
+    branches:
+      - master
+    paths-ignore:
+      - "**/README.md"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout master branch
+        uses: actions/checkout@v3
+
+      - name: Generate mirror check results
+        run: |
+          python -m checker.generate
+
+      - name: Move generated files to publish directory
+        run: |
+          mkdir -p /tmp/publish/
+          mv ./*.json /tmp/publish/ 2>/dev/null || true
+
+      - name: Checkout release branch
+        run: |
+          git fetch origin release
+          git checkout -B release origin/release
+
+      - name: Git push assets to "release" branch
+        run: |
+          cp -r /tmp/publish/* .
+          rm -rf /tmp/publish
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Update mirror check results ($(date -u +%F))" || echo "No changes"
+          git push origin release -f
