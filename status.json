@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-28T11:02:21.761286+00:00",
+  "generated_at": "2025-12-28T11:06:18.825905+00:00",
   "boards": {
     "arduino-milkv-duo-sd": {
       "distfiles": [
@@ -17,7 +17,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 2007
+                  "latency_ms": 3978
                 }
               ]
             }
@@ -32,7 +32,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 340
+              "latency_ms": 155
             }
           ]
         },
@@ -45,7 +45,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 358
+              "latency_ms": 144
             }
           ]
         }
@@ -67,7 +67,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1476
+                  "latency_ms": 2197
                 }
               ]
             }
@@ -82,7 +82,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 378
+              "latency_ms": 140
             }
           ]
         },
@@ -95,7 +95,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 447
+              "latency_ms": 145
             }
           ]
         }
@@ -112,7 +112,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 2419
+              "latency_ms": 1097
             }
           ]
         },
@@ -125,7 +125,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 673
+              "latency_ms": 810
             }
           ]
         },
@@ -138,7 +138,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 996
+              "latency_ms": 270
             }
           ]
         },
@@ -151,7 +151,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 457
+              "latency_ms": 77
             }
           ]
         }
@@ -168,7 +168,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 463
+              "latency_ms": 162
             }
           ]
         },
@@ -181,7 +181,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 442
+              "latency_ms": 594
             }
           ]
         },
@@ -194,7 +194,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 778
+              "latency_ms": 66
             }
           ]
         },
@@ -207,7 +207,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 494
+              "latency_ms": 608
             }
           ]
         }
@@ -224,7 +224,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 419
+              "latency_ms": 74
             }
           ]
         },
@@ -237,7 +237,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 487
+              "latency_ms": 514
             }
           ]
         },
@@ -250,7 +250,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 430
+              "latency_ms": 528
             }
           ]
         },
@@ -263,7 +263,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 472
+              "latency_ms": 513
             }
           ]
         },
@@ -276,7 +276,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 419
+              "latency_ms": 578
             }
           ]
         },
@@ -289,7 +289,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 451
+              "latency_ms": 566
             }
           ]
         },
@@ -302,7 +302,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 439
+              "latency_ms": 525
             }
           ]
         },
@@ -315,7 +315,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 408
+              "latency_ms": 514
             }
           ]
         },
@@ -328,7 +328,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 411
+              "latency_ms": 495
             }
           ]
         },
@@ -341,7 +341,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 387
+              "latency_ms": 507
             }
           ]
         },
@@ -354,7 +354,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 90
+              "latency_ms": 504
             }
           ]
         }
@@ -371,7 +371,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 388
+              "latency_ms": 536
             }
           ]
         },
@@ -384,7 +384,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 437
+              "latency_ms": 527
             }
           ]
         },
@@ -397,7 +397,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 650
+              "latency_ms": 516
             }
           ]
         },
@@ -410,7 +410,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 389
+              "latency_ms": 496
             }
           ]
         },
@@ -423,7 +423,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 421
+              "latency_ms": 535
             }
           ]
         },
@@ -436,7 +436,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 442
+              "latency_ms": 1206
             }
           ]
         },
@@ -449,7 +449,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 427
+              "latency_ms": 500
             }
           ]
         },
@@ -462,7 +462,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 505
+              "latency_ms": 527
             }
           ]
         },
@@ -475,7 +475,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 399
+              "latency_ms": 495
             }
           ]
         },
@@ -488,7 +488,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 43
+              "latency_ms": 53
             }
           ]
         },
@@ -501,7 +501,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 80
+              "latency_ms": 54
             }
           ]
         }
@@ -518,7 +518,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 434
+              "latency_ms": 113
             }
           ]
         },
@@ -531,7 +531,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 441
+              "latency_ms": 593
             }
           ]
         },
@@ -544,7 +544,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 422
+              "latency_ms": 511
             }
           ]
         },
@@ -557,7 +557,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 446
+              "latency_ms": 483
             }
           ]
         },
@@ -570,7 +570,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 416
+              "latency_ms": 531
             }
           ]
         },
@@ -583,7 +583,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 447
+              "latency_ms": 567
             }
           ]
         },
@@ -596,7 +596,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 407
+              "latency_ms": 509
             }
           ]
         },
@@ -609,7 +609,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 428
+              "latency_ms": 492
             }
           ]
         },
@@ -622,7 +622,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 420
+              "latency_ms": 510
             }
           ]
         },
@@ -635,7 +635,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 682
+              "latency_ms": 519
             }
           ]
         },
@@ -648,7 +648,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 74
+              "latency_ms": 487
             }
           ]
         }
@@ -665,7 +665,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 418
+              "latency_ms": 487
             }
           ]
         },
@@ -678,7 +678,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 477
+              "latency_ms": 502
             }
           ]
         },
@@ -691,7 +691,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 499
+              "latency_ms": 512
             }
           ]
         },
@@ -704,7 +704,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 457
+              "latency_ms": 489
             }
           ]
         },
@@ -717,7 +717,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 454
+              "latency_ms": 497
             }
           ]
         },
@@ -730,7 +730,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 422
+              "latency_ms": 484
             }
           ]
         },
@@ -743,7 +743,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 415
+              "latency_ms": 518
             }
           ]
         },
@@ -756,7 +756,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 385
+              "latency_ms": 480
             }
           ]
         },
@@ -769,7 +769,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 413
+              "latency_ms": 56
             }
           ]
         },
@@ -782,7 +782,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 420
+              "latency_ms": 479
             }
           ]
         },
@@ -795,7 +795,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 78
+              "latency_ms": 53
             }
           ]
         }
@@ -812,7 +812,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 370
+              "latency_ms": 138
             }
           ]
         },
@@ -825,7 +825,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 352
+              "latency_ms": 155
             }
           ]
         },
@@ -838,7 +838,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 343
+              "latency_ms": 201
             }
           ]
         },
@@ -851,7 +851,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 320
+              "latency_ms": 144
             }
           ]
         },
@@ -869,7 +869,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1415
+                  "latency_ms": 1924
                 }
               ]
             }
@@ -884,7 +884,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 379
+              "latency_ms": 159
             }
           ]
         },
@@ -897,7 +897,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 328
+              "latency_ms": 158
             }
           ]
         },
@@ -910,7 +910,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 335
+              "latency_ms": 143
             }
           ]
         },
@@ -923,7 +923,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 323
+              "latency_ms": 151
             }
           ]
         },
@@ -936,7 +936,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 340
+              "latency_ms": 474
             }
           ]
         }
@@ -953,7 +953,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 347
+              "latency_ms": 122
             }
           ]
         }
@@ -970,7 +970,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 339
+              "latency_ms": 160
             }
           ]
         },
@@ -983,7 +983,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 343
+              "latency_ms": 129
             }
           ]
         },
@@ -996,7 +996,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 325
+              "latency_ms": 157
             }
           ]
         },
@@ -1009,7 +1009,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 359
+              "latency_ms": 183
             }
           ]
         },
@@ -1027,7 +1027,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1426
+                  "latency_ms": 2108
                 }
               ]
             }
@@ -1042,7 +1042,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 342
+              "latency_ms": 160
             }
           ]
         },
@@ -1055,7 +1055,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 330
+              "latency_ms": 139
             }
           ]
         },
@@ -1068,7 +1068,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 330
+              "latency_ms": 141
             }
           ]
         },
@@ -1081,7 +1081,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 322
+              "latency_ms": 160
             }
           ]
         },
@@ -1094,7 +1094,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 599
+              "latency_ms": 136
             }
           ]
         }
@@ -1111,7 +1111,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 354
+              "latency_ms": 169
             }
           ]
         }
@@ -1128,7 +1128,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 531
+              "latency_ms": 142
             }
           ]
         },
@@ -1141,7 +1141,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 335
+              "latency_ms": 125
             }
           ]
         },
@@ -1154,7 +1154,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 348
+              "latency_ms": 151
             }
           ]
         },
@@ -1172,7 +1172,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1350
+                  "latency_ms": 1915
                 }
               ]
             }
@@ -1187,7 +1187,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 330
+              "latency_ms": 138
             }
           ]
         },
@@ -1200,7 +1200,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 332
+              "latency_ms": 133
             }
           ]
         },
@@ -1213,7 +1213,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 340
+              "latency_ms": 163
             }
           ]
         },
@@ -1226,7 +1226,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 344
+              "latency_ms": 135
             }
           ]
         },
@@ -1239,7 +1239,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 330
+              "latency_ms": 183
             }
           ]
         }
@@ -1256,7 +1256,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 337
+              "latency_ms": 148
             }
           ]
         },
@@ -1269,7 +1269,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 523
+              "latency_ms": 137
             }
           ]
         },
@@ -1282,7 +1282,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 370
+              "latency_ms": 145
             }
           ]
         },
@@ -1295,7 +1295,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 356
+              "latency_ms": 152
             }
           ]
         },
@@ -1308,7 +1308,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 345
+              "latency_ms": 134
             }
           ]
         },
@@ -1321,7 +1321,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 339
+              "latency_ms": 145
             }
           ]
         },
@@ -1334,7 +1334,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 328
+              "latency_ms": 649
             }
           ]
         },
@@ -1347,7 +1347,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 339
+              "latency_ms": 143
             }
           ]
         },
@@ -1360,7 +1360,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 335
+              "latency_ms": 167
             }
           ]
         },
@@ -1373,7 +1373,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 371
+              "latency_ms": 165
             }
           ]
         },
@@ -1386,7 +1386,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 327
+              "latency_ms": 150
             }
           ]
         },
@@ -1399,7 +1399,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 346
+              "latency_ms": 136
             }
           ]
         },
@@ -1412,7 +1412,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 349
+              "latency_ms": 145
             }
           ]
         },
@@ -1425,7 +1425,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 326
+              "latency_ms": 490
             }
           ]
         },
@@ -1438,7 +1438,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 330
+              "latency_ms": 139
             }
           ]
         },
@@ -1451,7 +1451,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 349
+              "latency_ms": 187
             }
           ]
         },
@@ -1464,7 +1464,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 472
+              "latency_ms": 145
             }
           ]
         },
@@ -1477,7 +1477,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 347
+              "latency_ms": 178
             }
           ]
         },
@@ -1490,7 +1490,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 337
+              "latency_ms": 151
             }
           ]
         },
@@ -1503,7 +1503,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 409
+              "latency_ms": 157
             }
           ]
         },
@@ -1516,7 +1516,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 322
+              "latency_ms": 132
             }
           ]
         },
@@ -1529,7 +1529,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 356
+              "latency_ms": 146
             }
           ]
         },
@@ -1542,7 +1542,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 349
+              "latency_ms": 148
             }
           ]
         },
@@ -1555,7 +1555,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 329
+              "latency_ms": 152
             }
           ]
         },
@@ -1568,7 +1568,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 331
+              "latency_ms": 145
             }
           ]
         }
@@ -1585,7 +1585,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1813
+              "latency_ms": 1589
             }
           ]
         }
@@ -1607,7 +1607,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1360
+                  "latency_ms": 2006
                 }
               ]
             }
@@ -1627,7 +1627,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1358
+                  "latency_ms": 2168
                 }
               ]
             }
@@ -1651,7 +1651,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1410
+                  "latency_ms": 1743
                 }
               ]
             }
@@ -1671,7 +1671,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1439
+                  "latency_ms": 1549
                 }
               ]
             }
@@ -1690,7 +1690,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 844
+              "latency_ms": 1407
             }
           ]
         }
@@ -1707,7 +1707,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 328
+              "latency_ms": 139
             }
           ]
         },
@@ -1720,7 +1720,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 370
+              "latency_ms": 169
             }
           ]
         }
@@ -1737,7 +1737,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 334
+              "latency_ms": 162
             }
           ]
         }
@@ -1754,7 +1754,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 327
+              "latency_ms": 133
             }
           ]
         },
@@ -1767,7 +1767,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 354
+              "latency_ms": 152
             }
           ]
         },
@@ -1780,7 +1780,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 323
+              "latency_ms": 153
             }
           ]
         },
@@ -1793,7 +1793,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 327
+              "latency_ms": 136
             }
           ]
         }
@@ -1815,7 +1815,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 214
+                  "latency_ms": 344
                 }
               ]
             }
@@ -1835,21 +1835,21 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 909
+                  "latency_ms": 1081
                 },
                 {
                   "url": "https://download.freebsd.org/releases/riscv/riscv64/ISO-IMAGES/14.2/FreeBSD-14.2-RELEASE-riscv-riscv64-mini-memstick.img",
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 260
+                  "latency_ms": 383
                 },
                 {
                   "url": "https://archive.freebsd.org/old-releases/riscv/riscv64/ISO-IMAGES/14.2/FreeBSD-14.2-RELEASE-riscv-riscv64-mini-memstick.img",
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 167
+                  "latency_ms": 81
                 }
               ]
             }
@@ -1869,21 +1869,21 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 712
+                  "latency_ms": 871
                 },
                 {
                   "url": "https://download.freebsd.org/releases/riscv/riscv64/ISO-IMAGES/14.3/FreeBSD-14.3-RELEASE-riscv-riscv64-mini-memstick.img",
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 101
+                  "latency_ms": 63
                 },
                 {
                   "url": "https://archive.freebsd.org/old-releases/riscv/riscv64/ISO-IMAGES/14.3/FreeBSD-14.3-RELEASE-riscv-riscv64-mini-memstick.img",
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 169
+                  "latency_ms": 65
                 }
               ]
             }
@@ -1903,21 +1903,21 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 771
+                  "latency_ms": 872
                 },
                 {
                   "url": "https://download.freebsd.org/releases/riscv/riscv64/ISO-IMAGES/15.0/FreeBSD-15.0-RELEASE-riscv-riscv64-mini-memstick.img",
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 101
+                  "latency_ms": 64
                 },
                 {
                   "url": "https://archive.freebsd.org/old-releases/riscv/riscv64/ISO-IMAGES/15.0/FreeBSD-15.0-RELEASE-riscv-riscv64-mini-memstick.img",
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 184
+                  "latency_ms": 78
                 }
               ]
             }
@@ -1936,7 +1936,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1363
+              "latency_ms": 1710
             }
           ]
         }
@@ -1953,7 +1953,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1378
+              "latency_ms": 1642
             }
           ]
         }
@@ -1970,7 +1970,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1370
+              "latency_ms": 1941
             }
           ]
         }
@@ -1987,7 +1987,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1443
+              "latency_ms": 1616
             }
           ]
         }
@@ -2004,7 +2004,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1344
+              "latency_ms": 1796
             }
           ]
         }
@@ -2021,7 +2021,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1364
+              "latency_ms": 1692
             }
           ]
         }
@@ -2038,7 +2038,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1362
+              "latency_ms": 1648
             }
           ]
         },
@@ -2051,7 +2051,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1373
+              "latency_ms": 1900
             }
           ]
         }
@@ -2068,7 +2068,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1352
+              "latency_ms": 1593
             }
           ]
         },
@@ -2081,7 +2081,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1354
+              "latency_ms": 1574
             }
           ]
         }
@@ -2098,7 +2098,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1349
+              "latency_ms": 1671
             }
           ]
         }
@@ -2115,7 +2115,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1365
+              "latency_ms": 1556
             }
           ]
         }
@@ -2132,7 +2132,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1422
+              "latency_ms": 1832
             }
           ]
         }
@@ -2149,7 +2149,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1368
+              "latency_ms": 1609
             }
           ]
         }
@@ -2166,7 +2166,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 265
+              "latency_ms": 683
             }
           ]
         },
@@ -2184,21 +2184,21 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1592
+                  "latency_ms": 5292
                 },
                 {
                   "url": "https://cdn.openbsd.org/pub/OpenBSD/7.6/riscv64/install76.img",
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 455
+                  "latency_ms": 593
                 },
                 {
                   "url": "https://ftp.openbsd.org/pub/OpenBSD/7.6/riscv64/install76.img",
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 196
+                  "latency_ms": 313
                 }
               ]
             }
@@ -2218,21 +2218,21 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 701
+                  "latency_ms": 783
                 },
                 {
                   "url": "https://cdn.openbsd.org/pub/OpenBSD/7.7/riscv64/install77.img",
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 270
+                  "latency_ms": 112
                 },
                 {
                   "url": "https://ftp.openbsd.org/pub/OpenBSD/7.7/riscv64/install77.img",
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 197
+                  "latency_ms": 321
                 }
               ]
             }
@@ -2252,21 +2252,21 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 696
+                  "latency_ms": 778
                 },
                 {
                   "url": "https://cdn.openbsd.org/pub/OpenBSD/7.8/riscv64/install78.img",
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 263
+                  "latency_ms": 433
                 },
                 {
                   "url": "https://ftp.openbsd.org/pub/OpenBSD/7.8/riscv64/install78.img",
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 198
+                  "latency_ms": 322
                 }
               ]
             }
@@ -2285,7 +2285,7 @@
               "available": true,
               "status_code": 206,
               "error": null,
-              "latency_ms": 5009
+              "latency_ms": 6304
             },
             {
               "type": "normal",
@@ -2293,7 +2293,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1294
+              "latency_ms": 1545
             }
           ]
         }
@@ -2310,15 +2310,15 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 699
+              "latency_ms": 786
             },
             {
               "type": "normal",
               "url": "https://downloads.openwrt.org/releases/23.05.2/targets/sifiveu/generic/openwrt-23.05.2-sifiveu-generic-sifive_unmatched-ext4-sdcard.img.gz",
-              "available": true,
-              "status_code": 200,
-              "error": null,
-              "latency_ms": 4373
+              "available": false,
+              "status_code": null,
+              "error": "timeout",
+              "latency_ms": null
             }
           ]
         },
@@ -2331,7 +2331,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1054
+              "latency_ms": 784
             },
             {
               "type": "normal",
@@ -2339,7 +2339,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 4250
+              "latency_ms": 2926
             }
           ]
         },
@@ -2352,15 +2352,15 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 704
+              "latency_ms": 1111
             },
             {
               "type": "normal",
               "url": "https://downloads.openwrt.org/releases/24.10.3/targets/sifiveu/generic/openwrt-24.10.3-sifiveu-generic-sifive_unmatched-ext4-sdcard.img.gz",
-              "available": false,
-              "status_code": null,
-              "error": "timeout",
-              "latency_ms": null
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 1895
             }
           ]
         },
@@ -2373,15 +2373,15 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 695
+              "latency_ms": 783
             },
             {
               "type": "normal",
               "url": "https://downloads.openwrt.org/releases/24.10.4/targets/sifiveu/generic/openwrt-24.10.4-sifiveu-generic-sifive_unmatched-ext4-sdcard.img.gz",
-              "available": false,
-              "status_code": null,
-              "error": "timeout",
-              "latency_ms": null
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 3719
             }
           ]
         }
@@ -2398,7 +2398,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1355
+              "latency_ms": 1571
             }
           ]
         },
@@ -2411,7 +2411,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1361
+              "latency_ms": 1568
             }
           ]
         },
@@ -2424,7 +2424,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1359
+              "latency_ms": 1611
             }
           ]
         }
@@ -2441,7 +2441,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 356
+              "latency_ms": 128
             }
           ]
         },
@@ -2454,7 +2454,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 433
+              "latency_ms": 126
             }
           ]
         },
@@ -2472,7 +2472,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1356
+                  "latency_ms": 1600
                 }
               ]
             }
@@ -2492,7 +2492,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1408
+                  "latency_ms": 1533
                 }
               ]
             }
@@ -2512,7 +2512,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1352
+                  "latency_ms": 1572
                 }
               ]
             }
@@ -2532,7 +2532,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1359
+                  "latency_ms": 1562
                 }
               ]
             }
@@ -2552,7 +2552,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1800
+                  "latency_ms": 2554
                 }
               ]
             }
@@ -2572,7 +2572,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1799
+                  "latency_ms": 2037
                 }
               ]
             }
@@ -2592,7 +2592,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1807
+                  "latency_ms": 2388
                 }
               ]
             }
@@ -2612,7 +2612,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1790
+                  "latency_ms": 2078
                 }
               ]
             }
@@ -2636,7 +2636,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1808
+                  "latency_ms": 2129
                 }
               ]
             }
@@ -2656,7 +2656,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1796
+                  "latency_ms": 2035
                 }
               ]
             }
@@ -2676,7 +2676,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1801
+                  "latency_ms": 2301
                 }
               ]
             }
@@ -2700,7 +2700,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1365
+                  "latency_ms": 1554
                 }
               ]
             }
@@ -2720,7 +2720,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1345
+                  "latency_ms": 1603
                 }
               ]
             }
@@ -2740,7 +2740,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1804
+                  "latency_ms": 2395
                 }
               ]
             }
@@ -2760,7 +2760,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1793
+                  "latency_ms": 2062
                 }
               ]
             }
@@ -2780,7 +2780,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1796
+                  "latency_ms": 2112
                 }
               ]
             }
@@ -2800,7 +2800,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1810
+                  "latency_ms": 2082
                 }
               ]
             }
@@ -2824,7 +2824,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1345
+                  "latency_ms": 1547
                 }
               ]
             }
@@ -2844,7 +2844,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1362
+                  "latency_ms": 1543
                 }
               ]
             }
@@ -2868,7 +2868,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1351
+                  "latency_ms": 1568
                 }
               ]
             }
@@ -2888,7 +2888,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1356
+                  "latency_ms": 1564
                 }
               ]
             }
@@ -2908,7 +2908,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1379
+                  "latency_ms": 1571
                 }
               ]
             }
@@ -2928,7 +2928,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1361
+                  "latency_ms": 1547
                 }
               ]
             }
@@ -2948,7 +2948,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1787
+                  "latency_ms": 2035
                 }
               ]
             }
@@ -2968,7 +2968,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1813
+                  "latency_ms": 2086
                 }
               ]
             }
@@ -2988,7 +2988,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1800
+                  "latency_ms": 2195
                 }
               ]
             }
@@ -3008,7 +3008,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1831
+                  "latency_ms": 2013
                 }
               ]
             }
@@ -3032,7 +3032,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1361
+                  "latency_ms": 1573
                 }
               ]
             }
@@ -3052,7 +3052,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1346
+                  "latency_ms": 1548
                 }
               ]
             }
@@ -3072,7 +3072,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1366
+                  "latency_ms": 1590
                 }
               ]
             }
@@ -3092,7 +3092,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1358
+                  "latency_ms": 1567
                 }
               ]
             }
@@ -3112,7 +3112,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1805
+                  "latency_ms": 2013
                 }
               ]
             }
@@ -3132,7 +3132,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1811
+                  "latency_ms": 2093
                 }
               ]
             }
@@ -3152,7 +3152,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1783
+                  "latency_ms": 2060
                 }
               ]
             }
@@ -3172,7 +3172,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1813
+                  "latency_ms": 2134
                 }
               ]
             }
@@ -3191,7 +3191,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1352
+              "latency_ms": 1534
             }
           ]
         },
@@ -3204,7 +3204,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1362
+              "latency_ms": 1558
             }
           ]
         },
@@ -3217,7 +3217,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1358
+              "latency_ms": 1592
             }
           ]
         },
@@ -3230,7 +3230,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1344
+              "latency_ms": 1508
             }
           ]
         },
@@ -3243,7 +3243,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1428
+              "latency_ms": 1607
             }
           ]
         },
@@ -3256,7 +3256,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1361
+              "latency_ms": 1760
             }
           ]
         }
@@ -3273,7 +3273,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1396
+              "latency_ms": 1564
             }
           ]
         }
@@ -3290,7 +3290,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1358
+              "latency_ms": 1650
             }
           ]
         }
@@ -3312,7 +3312,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1358
+                  "latency_ms": 1520
                 }
               ]
             }
@@ -3332,7 +3332,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1348
+                  "latency_ms": 1600
                 }
               ]
             }
@@ -3352,7 +3352,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1866
+                  "latency_ms": 2091
                 }
               ]
             }
@@ -3372,7 +3372,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1810
+                  "latency_ms": 2068
                 }
               ]
             }
@@ -3391,7 +3391,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 351
+              "latency_ms": 131
             }
           ]
         },
@@ -3409,7 +3409,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1360
+                  "latency_ms": 1568
                 }
               ]
             }
@@ -3429,7 +3429,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1359
+                  "latency_ms": 1582
                 }
               ]
             }
@@ -3449,7 +3449,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1787
+                  "latency_ms": 2003
                 }
               ]
             }
@@ -3469,7 +3469,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1828
+                  "latency_ms": 2054
                 }
               ]
             }
@@ -3488,7 +3488,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 356
+              "latency_ms": 138
             }
           ]
         },
@@ -3506,7 +3506,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1363
+                  "latency_ms": 1574
                 }
               ]
             }
@@ -3526,7 +3526,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1356
+                  "latency_ms": 1545
                 }
               ]
             }
@@ -3546,7 +3546,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1811
+                  "latency_ms": 2074
                 }
               ]
             }
@@ -3566,7 +3566,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1787
+                  "latency_ms": 2044
                 }
               ]
             }
@@ -3590,7 +3590,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1380
+                  "latency_ms": 1554
                 }
               ]
             }
@@ -3610,7 +3610,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1807
+                  "latency_ms": 2065
                 }
               ]
             }
@@ -3630,7 +3630,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1798
+                  "latency_ms": 2018
                 }
               ]
             }
@@ -3654,7 +3654,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1433
+                  "latency_ms": 1571
                 }
               ]
             }
@@ -3674,7 +3674,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1792
+                  "latency_ms": 2079
                 }
               ]
             }
@@ -3694,7 +3694,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1832
+                  "latency_ms": 2054
                 }
               ]
             }
@@ -3718,7 +3718,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1367
+                  "latency_ms": 1534
                 }
               ]
             }
@@ -3742,7 +3742,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1353
+                  "latency_ms": 1543
                 }
               ]
             }
@@ -3766,7 +3766,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1368
+                  "latency_ms": 1587
                 }
               ]
             }
@@ -3786,7 +3786,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1351
+                  "latency_ms": 1650
                 }
               ]
             }
@@ -3806,7 +3806,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1891
+                  "latency_ms": 2054
                 }
               ]
             }
@@ -3826,7 +3826,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1808
+                  "latency_ms": 2072
                 }
               ]
             }
@@ -3850,7 +3850,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1378
+                  "latency_ms": 1560
                 }
               ]
             }
@@ -3870,7 +3870,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1362
+                  "latency_ms": 1550
                 }
               ]
             }
@@ -3890,7 +3890,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1840
+                  "latency_ms": 2110
                 }
               ]
             }
@@ -3910,7 +3910,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1810
+                  "latency_ms": 2052
                 }
               ]
             }
@@ -3934,7 +3934,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1362
+                  "latency_ms": 1574
                 }
               ]
             }
@@ -3954,7 +3954,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1373
+                  "latency_ms": 1528
                 }
               ]
             }
@@ -3974,7 +3974,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1801
+                  "latency_ms": 2090
                 }
               ]
             }
@@ -3994,7 +3994,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1794
+                  "latency_ms": 2104
                 }
               ]
             }
@@ -4018,7 +4018,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1363
+                  "latency_ms": 1556
                 }
               ]
             }
@@ -4038,7 +4038,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1423
+                  "latency_ms": 1540
                 }
               ]
             }
@@ -4058,7 +4058,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1824
+                  "latency_ms": 2112
                 }
               ]
             }
@@ -4078,7 +4078,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1867
+                  "latency_ms": 2092
                 }
               ]
             }
@@ -4102,14 +4102,14 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1408
+                  "latency_ms": 2257
                 },
                 {
                   "url": "https://cdimage.ubuntu.com/releases/22.04/release/ubuntu-22.04.5-preinstalled-server-riscv64+unmatched.img.xz",
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 479
+                  "latency_ms": 306
                 }
               ]
             }
@@ -4129,14 +4129,14 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 701
+                  "latency_ms": 784
                 },
                 {
                   "url": "https://cdimage.ubuntu.com/releases/24.04/release/ubuntu-24.04.3-preinstalled-server-riscv64+unmatched.img.xz",
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 375
+                  "latency_ms": 279
                 }
               ]
             }
@@ -4156,14 +4156,14 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 699
+                  "latency_ms": 776
                 },
                 {
                   "url": "https://cdimage.ubuntu.com/releases/25.04/release/ubuntu-25.04-preinstalled-server-riscv64+unmatched.img.xz",
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 361
+                  "latency_ms": 277
                 }
               ]
             }
