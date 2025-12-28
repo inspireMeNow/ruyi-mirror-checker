@@ -1,4 +1,4 @@
-name: shadowrocket modules
+name: ruyi mirror checker
 on:
   workflow_dispatch:
   schedule:
