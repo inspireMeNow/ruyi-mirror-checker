@@ -13,29 +13,38 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Install the latest version of uv
+        uses: astral-sh/setup-uv@v7
+
       - name: Checkout master branch
         uses: actions/checkout@v3
 
+      - name: Clone packages-index repository
+        run: |
+          git clone --depth=1 https://github.com/ruyisdk/packages-index.git packages-index
+
       - name: Generate mirror check results
         run: |
-          python -m checker.generate
+          uv sync
+          uv run python -m checker.generate
 
       - name: Move generated files to publish directory
         run: |
           mkdir -p /tmp/publish/
           mv ./*.json /tmp/publish/ 2>/dev/null || true
 
-      - name: Checkout release branch
+      - name: Checkout hidden branch
         run: |
-          git fetch origin release
-          git checkout -B release origin/release
+          git fetch origin hidden
+          git checkout -B hidden origin/hidden
 
-      - name: Git push assets to "release" branch
+      - name: Git push assets to "hidden" branch
         run: |
           cp -r /tmp/publish/* .
           rm -rf /tmp/publish
+          rm -rf packages-index
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .
+          git add status.json
           git commit -m "Update mirror check results ($(date -u +%F))" || echo "No changes"
-          git push origin release -f
+          git push origin hidden -f
