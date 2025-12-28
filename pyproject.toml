@@ -7,7 +7,7 @@ requires-python = ">=3.11"
 authors = [
     { name = "inspiremenow" },
 ]
-keywords = ["ruyi", "packaging", "riscv", "checker-bot"]
+keywords = ["ruyi", "packaging", "checker-bot"]
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Environment :: Console",
@@ -36,7 +36,8 @@ packages = ["checker"]
 [tool.hatch.build.targets.sdist]
 include = [
     "/checker",
-    "/package",
-    "/config",
     "/README.md",
 ]
+
+[project.scripts]
+app = "checker.api:app"

@@ -2,7 +2,7 @@ name: shadowrocket modules
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 3 * * *"
+    - cron: "0 */3 * * *"
   push:
     branches:
       - master
