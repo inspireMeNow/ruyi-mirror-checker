@@ -119,21 +119,43 @@ def format_distfiles(data: dict) -> str:
             continue
         
         for u in urls:
-            url = u.get("url") or "-"
-            status_code = u.get("status_code")
-            is_available = u.get("available")
-            status_text = format_status(is_available, status_code)
+            entries = u.get("entries", [])
             
-            item = (
-                f"Name: {dist_name}\n"
-                f"URL: {url}\n"
-                f"Status: {status_text}\n"
-            )
-            
-            if is_available:
-                available.append(item)
+            if entries:
+                # entries
+                for entry in entries:
+                    url = entry.get("url") or "-"
+                    status_code = entry.get("status_code")
+                    is_available = entry.get("available")
+                    status_text = format_status(is_available, status_code)
+                    
+                    item = (
+                        f"Name: {dist_name}\n"
+                        f"URL: {url}\n"
+                        f"Status: {status_text}\n"
+                    )
+                    
+                    if is_available:
+                        available.append(item)
+                    else:
+                        missing.append(item)
             else:
-                missing.append(item)
+                # url
+                url = u.get("url") or "-"
+                status_code = u.get("status_code")
+                is_available = u.get("available")
+                status_text = format_status(is_available, status_code)
+                
+                item = (
+                    f"Name: {dist_name}\n"
+                    f"URL: {url}\n"
+                    f"Status: {status_text}\n"
+                )
+                
+                if is_available:
+                    available.append(item)
+                else:
+                    missing.append(item)
     
     # Available files first
     if available:
