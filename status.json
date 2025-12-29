@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-29T17:59:24.566099+00:00",
+  "generated_at": "2025-12-29T18:15:10.581786+00:00",
   "boards": {
     "arduino-milkv-duo-sd": {
       "distfiles": [
@@ -17,7 +17,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 3652
+                  "latency_ms": 4151
                 }
               ]
             }
@@ -32,7 +32,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 207
+              "latency_ms": 349
             }
           ]
         },
@@ -45,7 +45,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 190
+              "latency_ms": 368
             }
           ]
         }
@@ -67,7 +67,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1730
+                  "latency_ms": 1641
                 }
               ]
             }
@@ -82,7 +82,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 189
+              "latency_ms": 668
             }
           ]
         },
@@ -95,7 +95,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 185
+              "latency_ms": 339
             }
           ]
         }
@@ -112,7 +112,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 2362
+              "latency_ms": 988
             }
           ]
         },
@@ -125,7 +125,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 533
+              "latency_ms": 1079
             }
           ]
         },
@@ -138,7 +138,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 75
+              "latency_ms": 107
             }
           ]
         },
@@ -151,7 +151,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 377
+              "latency_ms": 143
             }
           ]
         }
@@ -168,7 +168,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 92
+              "latency_ms": 94
             }
           ]
         },
@@ -181,7 +181,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 601
+              "latency_ms": 749
             }
           ]
         },
@@ -194,7 +194,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 93
+              "latency_ms": 112
             }
           ]
         },
@@ -207,7 +207,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 720
+              "latency_ms": 573
             }
           ]
         }
@@ -224,7 +224,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 93
+              "latency_ms": 98
             }
           ]
         },
@@ -237,7 +237,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 2419
+              "latency_ms": 540
             }
           ]
         },
@@ -250,7 +250,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 523
+              "latency_ms": 545
             }
           ]
         },
@@ -260,166 +260,6 @@
             {
               "type": "normal",
               "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.0.4/bianbu-24.04-desktop-k1-v2.0.4-release-20241206002355.zip",
-              "available": true,
-              "status_code": 200,
-              "error": null,
-              "latency_ms": 642
-            }
-          ]
-        },
-        {
-          "name": "bianbu-24.04-desktop-k1-v2.1-release-20250124144655.zip",
-          "urls": [
-            {
-              "type": "normal",
-              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.1/bianbu-24.04-desktop-k1-v2.1-release-20250124144655.zip",
-              "available": true,
-              "status_code": 200,
-              "error": null,
-              "latency_ms": 555
-            }
-          ]
-        },
-        {
-          "name": "bianbu-24.04-desktop-k1-v2.1.1-release-20250305144026.zip",
-          "urls": [
-            {
-              "type": "normal",
-              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.1.1/bianbu-24.04-desktop-k1-v2.1.1-release-20250305144026.zip",
-              "available": true,
-              "status_code": 200,
-              "error": null,
-              "latency_ms": 506
-            }
-          ]
-        },
-        {
-          "name": "bianbu-24.04-desktop-k1-v2.1.2-release-20250421172038.zip",
-          "urls": [
-            {
-              "type": "normal",
-              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.1.2/bianbu-24.04-desktop-k1-v2.1.2-release-20250421172038.zip",
-              "available": true,
-              "status_code": 200,
-              "error": null,
-              "latency_ms": 503
-            }
-          ]
-        },
-        {
-          "name": "bianbu-24.04-desktop-k1-v2.2-release-20250430190125.zip",
-          "urls": [
-            {
-              "type": "normal",
-              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.2/bianbu-24.04-desktop-k1-v2.2-release-20250430190125.zip",
-              "available": true,
-              "status_code": 200,
-              "error": null,
-              "latency_ms": 506
-            }
-          ]
-        },
-        {
-          "name": "bianbu-24.04-desktop-k1-v2.2.1-release-20250815220536.zip",
-          "urls": [
-            {
-              "type": "normal",
-              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.2.1/bianbu-24.04-desktop-k1-v2.2.1-release-20250815220536.zip",
-              "available": true,
-              "status_code": 200,
-              "error": null,
-              "latency_ms": 497
-            }
-          ]
-        },
-        {
-          "name": "bianbu-25.04-desktop-k1-v3.0-release-20250725125828.zip",
-          "urls": [
-            {
-              "type": "normal",
-              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v3.0/bianbu-25.04-desktop-k1-v3.0-release-20250725125828.zip",
-              "available": true,
-              "status_code": 200,
-              "error": null,
-              "latency_ms": 531
-            }
-          ]
-        },
-        {
-          "name": "bianbu-25.04-desktop-k1-v3.0.1-release-20250815185656.zip",
-          "urls": [
-            {
-              "type": "normal",
-              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v3.0.1/bianbu-25.04-desktop-k1-v3.0.1-release-20250815185656.zip",
-              "available": true,
-              "status_code": 200,
-              "error": null,
-              "latency_ms": 562
-            }
-          ]
-        }
-      ]
-    },
-    "bianbu-desktop-spacemit-k1-sd": {
-      "distfiles": [
-        {
-          "name": "bianbu-24.04-desktop-k1-v2.0-release-20241021195251.img.zip",
-          "urls": [
-            {
-              "type": "normal",
-              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.0/bianbu-24.04-desktop-k1-v2.0-release-20241021195251.img.zip",
-              "available": true,
-              "status_code": 200,
-              "error": null,
-              "latency_ms": 552
-            }
-          ]
-        },
-        {
-          "name": "bianbu-24.04-desktop-k1-v2.0.1-release-20241025234454.img.zip",
-          "urls": [
-            {
-              "type": "normal",
-              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.0.1/bianbu-24.04-desktop-k1-v2.0.1-release-20241025234454.img.zip",
-              "available": true,
-              "status_code": 200,
-              "error": null,
-              "latency_ms": 502
-            }
-          ]
-        },
-        {
-          "name": "bianbu-24.04-desktop-k1-v2.0.2-release-20241111222735.img.zip",
-          "urls": [
-            {
-              "type": "normal",
-              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.0.2/bianbu-24.04-desktop-k1-v2.0.2-release-20241111222735.img.zip",
-              "available": true,
-              "status_code": 200,
-              "error": null,
-              "latency_ms": 498
-            }
-          ]
-        },
-        {
-          "name": "bianbu-24.04-desktop-k1-v2.0.4-release-20241206002355.img.zip",
-          "urls": [
-            {
-              "type": "normal",
-              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.0.4/bianbu-24.04-desktop-k1-v2.0.4-release-20241206002355.img.zip",
-              "available": true,
-              "status_code": 200,
-              "error": null,
-              "latency_ms": 511
-            }
-          ]
-        },
-        {
-          "name": "bianbu-24.04-desktop-k1-v2.1-release-20250124144655.img.zip",
-          "urls": [
-            {
-              "type": "normal",
-              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.1/bianbu-24.04-desktop-k1-v2.1-release-20250124144655.img.zip",
               "available": true,
               "status_code": 200,
               "error": null,
@@ -428,140 +268,6 @@
           ]
         },
         {
-          "name": "bianbu-24.04-desktop-k1-v2.1.1-release-20250305144026.img.zip",
-          "urls": [
-            {
-              "type": "normal",
-              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.1.1/bianbu-24.04-desktop-k1-v2.1.1-release-20250305144026.img.zip",
-              "available": true,
-              "status_code": 200,
-              "error": null,
-              "latency_ms": 509
-            }
-          ]
-        },
-        {
-          "name": "bianbu-24.04-desktop-k1-v2.1.2-release-20250421172038.img.zip",
-          "urls": [
-            {
-              "type": "normal",
-              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.1.2/bianbu-24.04-desktop-k1-v2.1.2-release-20250421172038.img.zip",
-              "available": true,
-              "status_code": 200,
-              "error": null,
-              "latency_ms": 540
-            }
-          ]
-        },
-        {
-          "name": "bianbu-24.04-desktop-k1-v2.2-release-20250430190125.img.zip",
-          "urls": [
-            {
-              "type": "normal",
-              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.2/bianbu-24.04-desktop-k1-v2.2-release-20250430190125.img.zip",
-              "available": true,
-              "status_code": 200,
-              "error": null,
-              "latency_ms": 503
-            }
-          ]
-        },
-        {
-          "name": "bianbu-24.04-desktop-k1-v2.2.1-release-20250815220536.img.zip",
-          "urls": [
-            {
-              "type": "normal",
-              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.2.1/bianbu-24.04-desktop-k1-v2.2.1-release-20250815220536.img.zip",
-              "available": true,
-              "status_code": 200,
-              "error": null,
-              "latency_ms": 497
-            }
-          ]
-        },
-        {
-          "name": "bianbu-25.04-desktop-k1-v3.0-release-20250725125828.img.zip",
-          "urls": [
-            {
-              "type": "normal",
-              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v3.0/bianbu-25.04-desktop-k1-v3.0-release-20250725125828.img.zip",
-              "available": true,
-              "status_code": 200,
-              "error": null,
-              "latency_ms": 95
-            }
-          ]
-        },
-        {
-          "name": "bianbu-25.04-desktop-k1-v3.0.1-release-20250815185656.img.zip",
-          "urls": [
-            {
-              "type": "normal",
-              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v3.0.1/bianbu-25.04-desktop-k1-v3.0.1-release-20250815185656.img.zip",
-              "available": true,
-              "status_code": 200,
-              "error": null,
-              "latency_ms": 75
-            }
-          ]
-        }
-      ]
-    },
-    "bianbu-minimal-spacemit-k1": {
-      "distfiles": [
-        {
-          "name": "bianbu-24.04-desktop-k1-v2.0-release-20241021195251.zip",
-          "urls": [
-            {
-              "type": "normal",
-              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.0/bianbu-24.04-desktop-k1-v2.0-release-20241021195251.zip",
-              "available": true,
-              "status_code": 200,
-              "error": null,
-              "latency_ms": 63
-            }
-          ]
-        },
-        {
-          "name": "bianbu-24.04-desktop-k1-v2.0.1-release-20241025234454.zip",
-          "urls": [
-            {
-              "type": "normal",
-              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.0.1/bianbu-24.04-desktop-k1-v2.0.1-release-20241025234454.zip",
-              "available": true,
-              "status_code": 200,
-              "error": null,
-              "latency_ms": 537
-            }
-          ]
-        },
-        {
-          "name": "bianbu-24.04-desktop-k1-v2.0.2-release-20241111222735.zip",
-          "urls": [
-            {
-              "type": "normal",
-              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.0.2/bianbu-24.04-desktop-k1-v2.0.2-release-20241111222735.zip",
-              "available": true,
-              "status_code": 200,
-              "error": null,
-              "latency_ms": 499
-            }
-          ]
-        },
-        {
-          "name": "bianbu-24.04-desktop-k1-v2.0.4-release-20241206002355.zip",
-          "urls": [
-            {
-              "type": "normal",
-              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.0.4/bianbu-24.04-desktop-k1-v2.0.4-release-20241206002355.zip",
-              "available": true,
-              "status_code": 200,
-              "error": null,
-              "latency_ms": 495
-            }
-          ]
-        },
-        {
           "name": "bianbu-24.04-desktop-k1-v2.1-release-20250124144655.zip",
           "urls": [
             {
@@ -570,7 +276,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 540
+              "latency_ms": 544
             }
           ]
         },
@@ -583,7 +289,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 536
+              "latency_ms": 526
             }
           ]
         },
@@ -596,7 +302,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 525
+              "latency_ms": 524
             }
           ]
         },
@@ -622,7 +328,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 518
+              "latency_ms": 535
             }
           ]
         },
@@ -635,7 +341,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 497
+              "latency_ms": 516
             }
           ]
         },
@@ -648,7 +354,301 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 499
+              "latency_ms": 533
+            }
+          ]
+        }
+      ]
+    },
+    "bianbu-desktop-spacemit-k1-sd": {
+      "distfiles": [
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.0-release-20241021195251.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.0/bianbu-24.04-desktop-k1-v2.0-release-20241021195251.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 535
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.0.1-release-20241025234454.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.0.1/bianbu-24.04-desktop-k1-v2.0.1-release-20241025234454.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 776
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.0.2-release-20241111222735.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.0.2/bianbu-24.04-desktop-k1-v2.0.2-release-20241111222735.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 514
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.0.4-release-20241206002355.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.0.4/bianbu-24.04-desktop-k1-v2.0.4-release-20241206002355.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 523
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.1-release-20250124144655.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.1/bianbu-24.04-desktop-k1-v2.1-release-20250124144655.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 521
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.1.1-release-20250305144026.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.1.1/bianbu-24.04-desktop-k1-v2.1.1-release-20250305144026.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 511
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.1.2-release-20250421172038.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.1.2/bianbu-24.04-desktop-k1-v2.1.2-release-20250421172038.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 536
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.2-release-20250430190125.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.2/bianbu-24.04-desktop-k1-v2.2-release-20250430190125.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 522
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.2.1-release-20250815220536.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.2.1/bianbu-24.04-desktop-k1-v2.2.1-release-20250815220536.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 522
+            }
+          ]
+        },
+        {
+          "name": "bianbu-25.04-desktop-k1-v3.0-release-20250725125828.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v3.0/bianbu-25.04-desktop-k1-v3.0-release-20250725125828.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 52
+            }
+          ]
+        },
+        {
+          "name": "bianbu-25.04-desktop-k1-v3.0.1-release-20250815185656.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v3.0.1/bianbu-25.04-desktop-k1-v3.0.1-release-20250815185656.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 86
+            }
+          ]
+        }
+      ]
+    },
+    "bianbu-minimal-spacemit-k1": {
+      "distfiles": [
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.0-release-20241021195251.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.0/bianbu-24.04-desktop-k1-v2.0-release-20241021195251.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 90
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.0.1-release-20241025234454.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.0.1/bianbu-24.04-desktop-k1-v2.0.1-release-20241025234454.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 535
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.0.2-release-20241111222735.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.0.2/bianbu-24.04-desktop-k1-v2.0.2-release-20241111222735.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 529
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.0.4-release-20241206002355.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.0.4/bianbu-24.04-desktop-k1-v2.0.4-release-20241206002355.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 522
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.1-release-20250124144655.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.1/bianbu-24.04-desktop-k1-v2.1-release-20250124144655.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 535
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.1.1-release-20250305144026.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.1.1/bianbu-24.04-desktop-k1-v2.1.1-release-20250305144026.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 516
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.1.2-release-20250421172038.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.1.2/bianbu-24.04-desktop-k1-v2.1.2-release-20250421172038.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 531
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.2-release-20250430190125.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.2/bianbu-24.04-desktop-k1-v2.2-release-20250430190125.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 538
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.2.1-release-20250815220536.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.2.1/bianbu-24.04-desktop-k1-v2.2.1-release-20250815220536.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 519
+            }
+          ]
+        },
+        {
+          "name": "bianbu-25.04-desktop-k1-v3.0-release-20250725125828.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v3.0/bianbu-25.04-desktop-k1-v3.0-release-20250725125828.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 523
+            }
+          ]
+        },
+        {
+          "name": "bianbu-25.04-desktop-k1-v3.0.1-release-20250815185656.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v3.0.1/bianbu-25.04-desktop-k1-v3.0.1-release-20250815185656.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 529
             }
           ]
         }
@@ -665,7 +665,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 496
+              "latency_ms": 543
             }
           ]
         },
@@ -678,7 +678,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 499
+              "latency_ms": 540
             }
           ]
         },
@@ -691,7 +691,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 508
+              "latency_ms": 529
             }
           ]
         },
@@ -704,7 +704,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 492
+              "latency_ms": 524
             }
           ]
         },
@@ -717,7 +717,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 491
+              "latency_ms": 530
             }
           ]
         },
@@ -730,7 +730,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 549
+              "latency_ms": 531
             }
           ]
         },
@@ -743,7 +743,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 490
+              "latency_ms": 516
             }
           ]
         },
@@ -756,7 +756,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 500
+              "latency_ms": 525
             }
           ]
         },
@@ -769,7 +769,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 72
+              "latency_ms": 82
             }
           ]
         },
@@ -782,7 +782,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 496
+              "latency_ms": 531
             }
           ]
         },
@@ -795,7 +795,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 72
+              "latency_ms": 83
             }
           ]
         }
@@ -812,7 +812,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 227
+              "latency_ms": 345
             }
           ]
         },
@@ -825,7 +825,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 192
+              "latency_ms": 341
             }
           ]
         },
@@ -838,7 +838,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 191
+              "latency_ms": 369
             }
           ]
         },
@@ -851,7 +851,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 198
+              "latency_ms": 400
             }
           ]
         },
@@ -869,7 +869,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1795
+                  "latency_ms": 1463
                 }
               ]
             }
@@ -884,7 +884,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 211
+              "latency_ms": 361
             }
           ]
         },
@@ -897,7 +897,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 176
+              "latency_ms": 332
             }
           ]
         },
@@ -910,7 +910,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 237
+              "latency_ms": 347
             }
           ]
         },
@@ -923,7 +923,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 184
+              "latency_ms": 382
             }
           ]
         },
@@ -936,7 +936,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 445
+              "latency_ms": 402
             }
           ]
         }
@@ -953,7 +953,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 182
+              "latency_ms": 346
             }
           ]
         }
@@ -970,7 +970,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 225
+              "latency_ms": 425
             }
           ]
         },
@@ -983,7 +983,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 228
+              "latency_ms": 345
             }
           ]
         },
@@ -996,7 +996,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 224
+              "latency_ms": 350
             }
           ]
         },
@@ -1009,7 +1009,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 197
+              "latency_ms": 373
             }
           ]
         },
@@ -1027,7 +1027,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1637
+                  "latency_ms": 1477
                 }
               ]
             }
@@ -1042,7 +1042,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 308
+              "latency_ms": 338
             }
           ]
         },
@@ -1055,7 +1055,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 212
+              "latency_ms": 375
             }
           ]
         },
@@ -1068,7 +1068,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 225
+              "latency_ms": 413
             }
           ]
         },
@@ -1081,7 +1081,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 203
+              "latency_ms": 357
             }
           ]
         },
@@ -1094,7 +1094,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 182
+              "latency_ms": 421
             }
           ]
         }
@@ -1111,7 +1111,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 184
+              "latency_ms": 337
             }
           ]
         }
@@ -1128,7 +1128,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 179
+              "latency_ms": 342
             }
           ]
         },
@@ -1141,7 +1141,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 225
+              "latency_ms": 350
             }
           ]
         },
@@ -1154,7 +1154,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 182
+              "latency_ms": 329
             }
           ]
         },
@@ -1172,7 +1172,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1902
+                  "latency_ms": 1381
                 }
               ]
             }
@@ -1187,7 +1187,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 180
+              "latency_ms": 345
             }
           ]
         },
@@ -1200,7 +1200,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 180
+              "latency_ms": 371
             }
           ]
         },
@@ -1213,7 +1213,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 186
+              "latency_ms": 373
             }
           ]
         },
@@ -1226,7 +1226,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 213
+              "latency_ms": 353
             }
           ]
         },
@@ -1239,7 +1239,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 230
+              "latency_ms": 371
             }
           ]
         }
@@ -1256,7 +1256,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 187
+              "latency_ms": 343
             }
           ]
         },
@@ -1269,7 +1269,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 192
+              "latency_ms": 338
             }
           ]
         },
@@ -1282,7 +1282,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 178
+              "latency_ms": 380
             }
           ]
         },
@@ -1295,7 +1295,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 196
+              "latency_ms": 368
             }
           ]
         },
@@ -1308,7 +1308,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 196
+              "latency_ms": 330
             }
           ]
         },
@@ -1321,7 +1321,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 187
+              "latency_ms": 330
             }
           ]
         },
@@ -1334,7 +1334,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 181
+              "latency_ms": 374
             }
           ]
         },
@@ -1347,7 +1347,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 193
+              "latency_ms": 506
             }
           ]
         },
@@ -1360,7 +1360,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 169
+              "latency_ms": 361
             }
           ]
         },
@@ -1373,7 +1373,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 193
+              "latency_ms": 429
             }
           ]
         },
@@ -1386,7 +1386,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 219
+              "latency_ms": 351
             }
           ]
         },
@@ -1399,7 +1399,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 185
+              "latency_ms": 356
             }
           ]
         },
@@ -1412,7 +1412,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 189
+              "latency_ms": 344
             }
           ]
         },
@@ -1425,7 +1425,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 218
+              "latency_ms": 358
             }
           ]
         },
@@ -1438,7 +1438,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 197
+              "latency_ms": 367
             }
           ]
         },
@@ -1451,7 +1451,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 251
+              "latency_ms": 347
             }
           ]
         },
@@ -1464,7 +1464,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 551
+              "latency_ms": 363
             }
           ]
         },
@@ -1477,7 +1477,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 198
+              "latency_ms": 352
             }
           ]
         },
@@ -1490,7 +1490,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 622
+              "latency_ms": 475
             }
           ]
         },
@@ -1503,7 +1503,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 222
+              "latency_ms": 328
             }
           ]
         },
@@ -1516,7 +1516,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 177
+              "latency_ms": 335
             }
           ]
         },
@@ -1529,7 +1529,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 214
+              "latency_ms": 358
             }
           ]
         },
@@ -1542,7 +1542,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 173
+              "latency_ms": 341
             }
           ]
         },
@@ -1555,7 +1555,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 185
+              "latency_ms": 341
             }
           ]
         },
@@ -1568,7 +1568,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 209
+              "latency_ms": 382
             }
           ]
         }
@@ -1582,10 +1582,10 @@
             {
               "type": "normal",
               "url": "https://kendryte-download.canaan-creative.com/developer/k230/canmv_debian_sdcard_sdk_1.3.img.gz",
-              "available": false,
-              "status_code": null,
-              "error": "timeout",
-              "latency_ms": null
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 1903
             }
           ]
         }
@@ -1607,7 +1607,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1600
+                  "latency_ms": 1389
                 }
               ]
             }
@@ -1627,7 +1627,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1544
+                  "latency_ms": 1361
                 }
               ]
             }
@@ -1651,7 +1651,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1869
+                  "latency_ms": 1943
                 }
               ]
             }
@@ -1671,7 +1671,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1608
+                  "latency_ms": 1361
                 }
               ]
             }
@@ -1687,10 +1687,10 @@
             {
               "type": "normal",
               "url": "https://kendryte-download.canaan-creative.com/developer/k230/canmv_ubuntu_sdcard_1.3.img.gz",
-              "available": false,
-              "status_code": null,
-              "error": "timeout",
-              "latency_ms": null
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 897
             }
           ]
         }
@@ -1707,7 +1707,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 200
+              "latency_ms": 386
             }
           ]
         },
@@ -1720,7 +1720,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 189
+              "latency_ms": 387
             }
           ]
         }
@@ -1737,7 +1737,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 190
+              "latency_ms": 463
             }
           ]
         }
@@ -1754,7 +1754,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 167
+              "latency_ms": 354
             }
           ]
         },
@@ -1767,7 +1767,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 176
+              "latency_ms": 357
             }
           ]
         },
@@ -1780,7 +1780,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 277
+              "latency_ms": 363
             }
           ]
         },
@@ -1793,7 +1793,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 206
+              "latency_ms": 341
             }
           ]
         }
@@ -1815,7 +1815,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 261
+                  "latency_ms": 197
                 }
               ]
             }
@@ -1835,21 +1835,21 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 1029
+                  "latency_ms": 1015
                 },
                 {
                   "url": "https://download.freebsd.org/releases/riscv/riscv64/ISO-IMAGES/14.2/FreeBSD-14.2-RELEASE-riscv-riscv64-mini-memstick.img",
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 130
+                  "latency_ms": 418
                 },
                 {
                   "url": "https://archive.freebsd.org/old-releases/riscv/riscv64/ISO-IMAGES/14.2/FreeBSD-14.2-RELEASE-riscv-riscv64-mini-memstick.img",
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 98
+                  "latency_ms": 283
                 }
               ]
             }
@@ -1869,21 +1869,21 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 770
+                  "latency_ms": 1393
                 },
                 {
                   "url": "https://download.freebsd.org/releases/riscv/riscv64/ISO-IMAGES/14.3/FreeBSD-14.3-RELEASE-riscv-riscv64-mini-memstick.img",
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 33
+                  "latency_ms": 103
                 },
                 {
                   "url": "https://archive.freebsd.org/old-releases/riscv/riscv64/ISO-IMAGES/14.3/FreeBSD-14.3-RELEASE-riscv-riscv64-mini-memstick.img",
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 96
+                  "latency_ms": 176
                 }
               ]
             }
@@ -1903,21 +1903,21 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 779
+                  "latency_ms": 710
                 },
                 {
                   "url": "https://download.freebsd.org/releases/riscv/riscv64/ISO-IMAGES/15.0/FreeBSD-15.0-RELEASE-riscv-riscv64-mini-memstick.img",
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 32
+                  "latency_ms": 101
                 },
                 {
                   "url": "https://archive.freebsd.org/old-releases/riscv/riscv64/ISO-IMAGES/15.0/FreeBSD-15.0-RELEASE-riscv-riscv64-mini-memstick.img",
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 94
+                  "latency_ms": 180
                 }
               ]
             }
@@ -1936,7 +1936,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1551
+              "latency_ms": 1384
             }
           ]
         }
@@ -1953,7 +1953,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1758
+              "latency_ms": 1387
             }
           ]
         }
@@ -1970,7 +1970,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1608
+              "latency_ms": 1367
             }
           ]
         }
@@ -1987,7 +1987,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1534
+              "latency_ms": 1380
             }
           ]
         }
@@ -2004,7 +2004,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1604
+              "latency_ms": 1348
             }
           ]
         }
@@ -2021,7 +2021,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1589
+              "latency_ms": 1372
             }
           ]
         }
@@ -2038,7 +2038,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1549
+              "latency_ms": 1391
             }
           ]
         },
@@ -2051,7 +2051,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1546
+              "latency_ms": 1658
             }
           ]
         }
@@ -2068,7 +2068,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1527
+              "latency_ms": 1373
             }
           ]
         },
@@ -2081,7 +2081,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1684
+              "latency_ms": 1373
             }
           ]
         }
@@ -2098,7 +2098,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1841
+              "latency_ms": 1433
             }
           ]
         }
@@ -2115,7 +2115,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1545
+              "latency_ms": 1359
             }
           ]
         }
@@ -2132,7 +2132,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1537
+              "latency_ms": 1377
             }
           ]
         }
@@ -2149,7 +2149,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1802
+              "latency_ms": 1377
             }
           ]
         }
@@ -2166,7 +2166,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 264
+              "latency_ms": 417
             }
           ]
         },
@@ -2184,21 +2184,21 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2879
+                  "latency_ms": 1926
                 },
                 {
                   "url": "https://cdn.openbsd.org/pub/OpenBSD/7.6/riscv64/install76.img",
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 287
+                  "latency_ms": 746
                 },
                 {
                   "url": "https://ftp.openbsd.org/pub/OpenBSD/7.6/riscv64/install76.img",
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 213
+                  "latency_ms": 196
                 }
               ]
             }
@@ -2218,21 +2218,21 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 847
+                  "latency_ms": 744
                 },
                 {
                   "url": "https://cdn.openbsd.org/pub/OpenBSD/7.7/riscv64/install77.img",
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 270
+                  "latency_ms": 286
                 },
                 {
                   "url": "https://ftp.openbsd.org/pub/OpenBSD/7.7/riscv64/install77.img",
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 211
+                  "latency_ms": 191
                 }
               ]
             }
@@ -2252,21 +2252,21 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 850
+                  "latency_ms": 776
                 },
                 {
                   "url": "https://cdn.openbsd.org/pub/OpenBSD/7.8/riscv64/install78.img",
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 269
+                  "latency_ms": 270
                 },
                 {
                   "url": "https://ftp.openbsd.org/pub/OpenBSD/7.8/riscv64/install78.img",
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 213
+                  "latency_ms": 200
                 }
               ]
             }
@@ -2293,7 +2293,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1486
+              "latency_ms": 1248
             }
           ]
         }
@@ -2310,7 +2310,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 876
+              "latency_ms": 753
             },
             {
               "type": "normal",
@@ -2318,7 +2318,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 2454
+              "latency_ms": 3802
             }
           ]
         },
@@ -2331,7 +2331,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 845
+              "latency_ms": 758
             },
             {
               "type": "normal",
@@ -2339,7 +2339,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 2109
+              "latency_ms": 2887
             }
           ]
         },
@@ -2352,7 +2352,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 850
+              "latency_ms": 778
             },
             {
               "type": "normal",
@@ -2360,7 +2360,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 2014
+              "latency_ms": 3088
             }
           ]
         },
@@ -2373,7 +2373,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 874
+              "latency_ms": 766
             },
             {
               "type": "normal",
@@ -2381,7 +2381,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 4533
+              "latency_ms": 1218
             }
           ]
         }
@@ -2398,7 +2398,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1549
+              "latency_ms": 1374
             }
           ]
         },
@@ -2411,7 +2411,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1541
+              "latency_ms": 1369
             }
           ]
         },
@@ -2424,7 +2424,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1557
+              "latency_ms": 1371
             }
           ]
         }
@@ -2441,7 +2441,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 211
+              "latency_ms": 363
             }
           ]
         },
@@ -2454,7 +2454,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 191
+              "latency_ms": 449
             }
           ]
         },
@@ -2472,7 +2472,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1524
+                  "latency_ms": 1350
                 }
               ]
             }
@@ -2492,7 +2492,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1527
+                  "latency_ms": 1368
                 }
               ]
             }
@@ -2512,7 +2512,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1549
+                  "latency_ms": 1386
                 }
               ]
             }
@@ -2532,7 +2532,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1549
+                  "latency_ms": 1360
                 }
               ]
             }
@@ -2552,7 +2552,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2060
+                  "latency_ms": 1836
                 }
               ]
             }
@@ -2572,7 +2572,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2099
+                  "latency_ms": 1822
                 }
               ]
             }
@@ -2592,7 +2592,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2039
+                  "latency_ms": 1801
                 }
               ]
             }
@@ -2612,7 +2612,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2055
+                  "latency_ms": 1814
                 }
               ]
             }
@@ -2636,7 +2636,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2037
+                  "latency_ms": 1829
                 }
               ]
             }
@@ -2656,7 +2656,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2037
+                  "latency_ms": 1820
                 }
               ]
             }
@@ -2676,7 +2676,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2033
+                  "latency_ms": 1816
                 }
               ]
             }
@@ -2700,7 +2700,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1554
+                  "latency_ms": 1388
                 }
               ]
             }
@@ -2720,7 +2720,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1536
+                  "latency_ms": 1347
                 }
               ]
             }
@@ -2740,7 +2740,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2024
+                  "latency_ms": 1811
                 }
               ]
             }
@@ -2760,7 +2760,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2057
+                  "latency_ms": 1829
                 }
               ]
             }
@@ -2780,7 +2780,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2057
+                  "latency_ms": 1793
                 }
               ]
             }
@@ -2800,7 +2800,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2045
+                  "latency_ms": 1806
                 }
               ]
             }
@@ -2824,7 +2824,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1543
+                  "latency_ms": 1356
                 }
               ]
             }
@@ -2844,7 +2844,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1528
+                  "latency_ms": 1365
                 }
               ]
             }
@@ -2868,7 +2868,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1543
+                  "latency_ms": 1362
                 }
               ]
             }
@@ -2888,7 +2888,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1542
+                  "latency_ms": 1373
                 }
               ]
             }
@@ -2908,7 +2908,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1539
+                  "latency_ms": 1362
                 }
               ]
             }
@@ -2928,7 +2928,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1523
+                  "latency_ms": 1376
                 }
               ]
             }
@@ -2948,7 +2948,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2020
+                  "latency_ms": 1816
                 }
               ]
             }
@@ -2968,7 +2968,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2068
+                  "latency_ms": 1810
                 }
               ]
             }
@@ -2988,7 +2988,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2043
+                  "latency_ms": 1811
                 }
               ]
             }
@@ -3008,7 +3008,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2037
+                  "latency_ms": 1803
                 }
               ]
             }
@@ -3032,7 +3032,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1518
+                  "latency_ms": 1350
                 }
               ]
             }
@@ -3052,7 +3052,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1543
+                  "latency_ms": 1367
                 }
               ]
             }
@@ -3072,7 +3072,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1532
+                  "latency_ms": 1336
                 }
               ]
             }
@@ -3092,7 +3092,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1683
+                  "latency_ms": 1673
                 }
               ]
             }
@@ -3112,7 +3112,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2045
+                  "latency_ms": 1841
                 }
               ]
             }
@@ -3132,7 +3132,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2045
+                  "latency_ms": 1833
                 }
               ]
             }
@@ -3152,7 +3152,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2052
+                  "latency_ms": 1792
                 }
               ]
             }
@@ -3172,7 +3172,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2030
+                  "latency_ms": 2952
                 }
               ]
             }
@@ -3191,7 +3191,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1535
+              "latency_ms": 1381
             }
           ]
         },
@@ -3204,7 +3204,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1544
+              "latency_ms": 1408
             }
           ]
         },
@@ -3217,7 +3217,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1530
+              "latency_ms": 1353
             }
           ]
         },
@@ -3230,7 +3230,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1541
+              "latency_ms": 1390
             }
           ]
         },
@@ -3243,7 +3243,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1527
+              "latency_ms": 1416
             }
           ]
         },
@@ -3256,7 +3256,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1663
+              "latency_ms": 1362
             }
           ]
         }
@@ -3273,7 +3273,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1566
+              "latency_ms": 1407
             }
           ]
         }
@@ -3290,7 +3290,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 1531
+              "latency_ms": 1364
             }
           ]
         }
@@ -3312,7 +3312,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1544
+                  "latency_ms": 1357
                 }
               ]
             }
@@ -3332,7 +3332,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1532
+                  "latency_ms": 1372
                 }
               ]
             }
@@ -3352,7 +3352,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2029
+                  "latency_ms": 1808
                 }
               ]
             }
@@ -3372,7 +3372,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2049
+                  "latency_ms": 1855
                 }
               ]
             }
@@ -3391,7 +3391,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 204
+              "latency_ms": 402
             }
           ]
         },
@@ -3409,7 +3409,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1531
+                  "latency_ms": 1375
                 }
               ]
             }
@@ -3429,7 +3429,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1620
+                  "latency_ms": 1371
                 }
               ]
             }
@@ -3449,7 +3449,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2028
+                  "latency_ms": 1839
                 }
               ]
             }
@@ -3469,7 +3469,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2119
+                  "latency_ms": 1803
                 }
               ]
             }
@@ -3488,7 +3488,7 @@
               "available": true,
               "status_code": 200,
               "error": null,
-              "latency_ms": 185
+              "latency_ms": 324
             }
           ]
         },
@@ -3506,7 +3506,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1600
+                  "latency_ms": 1360
                 }
               ]
             }
@@ -3526,7 +3526,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1525
+                  "latency_ms": 1361
                 }
               ]
             }
@@ -3546,7 +3546,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2023
+                  "latency_ms": 1835
                 }
               ]
             }
@@ -3566,7 +3566,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2058
+                  "latency_ms": 1809
                 }
               ]
             }
@@ -3590,7 +3590,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1542
+                  "latency_ms": 1381
                 }
               ]
             }
@@ -3610,7 +3610,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2023
+                  "latency_ms": 1791
                 }
               ]
             }
@@ -3630,7 +3630,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2026
+                  "latency_ms": 1817
                 }
               ]
             }
@@ -3654,7 +3654,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1549
+                  "latency_ms": 1363
                 }
               ]
             }
@@ -3674,7 +3674,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2039
+                  "latency_ms": 1882
                 }
               ]
             }
@@ -3694,7 +3694,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2030
+                  "latency_ms": 1802
                 }
               ]
             }
@@ -3718,7 +3718,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1527
+                  "latency_ms": 1403
                 }
               ]
             }
@@ -3742,7 +3742,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1556
+                  "latency_ms": 1430
                 }
               ]
             }
@@ -3766,7 +3766,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1543
+                  "latency_ms": 1360
                 }
               ]
             }
@@ -3786,7 +3786,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1542
+                  "latency_ms": 1389
                 }
               ]
             }
@@ -3806,7 +3806,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2025
+                  "latency_ms": 1821
                 }
               ]
             }
@@ -3826,7 +3826,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2039
+                  "latency_ms": 1793
                 }
               ]
             }
@@ -3850,7 +3850,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1554
+                  "latency_ms": 1367
                 }
               ]
             }
@@ -3870,7 +3870,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1621
+                  "latency_ms": 1356
                 }
               ]
             }
@@ -3890,7 +3890,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2039
+                  "latency_ms": 1817
                 }
               ]
             }
@@ -3910,7 +3910,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2046
+                  "latency_ms": 1814
                 }
               ]
             }
@@ -3934,7 +3934,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1558
+                  "latency_ms": 1358
                 }
               ]
             }
@@ -3954,7 +3954,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1545
+                  "latency_ms": 1360
                 }
               ]
             }
@@ -3974,7 +3974,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2054
+                  "latency_ms": 1854
                 }
               ]
             }
@@ -3994,7 +3994,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2029
+                  "latency_ms": 1816
                 }
               ]
             }
@@ -4018,7 +4018,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1685
+                  "latency_ms": 1355
                 }
               ]
             }
@@ -4038,7 +4038,7 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 1597
+                  "latency_ms": 1386
                 }
               ]
             }
@@ -4058,7 +4058,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 2020
+                  "latency_ms": 1807
                 }
               ]
             }
@@ -4078,7 +4078,7 @@
                   "available": false,
                   "status_code": 404,
                   "error": null,
-                  "latency_ms": 3081
+                  "latency_ms": 1879
                 }
               ]
             }
@@ -4102,14 +4102,14 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 2372
+                  "latency_ms": 1195
                 },
                 {
                   "url": "https://cdimage.ubuntu.com/releases/22.04/release/ubuntu-22.04.5-preinstalled-server-riscv64+unmatched.img.xz",
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 122
+                  "latency_ms": 514
                 }
               ]
             }
@@ -4129,14 +4129,14 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 844
+                  "latency_ms": 764
                 },
                 {
                   "url": "https://cdimage.ubuntu.com/releases/24.04/release/ubuntu-24.04.3-preinstalled-server-riscv64+unmatched.img.xz",
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 96
+                  "latency_ms": 178
                 }
               ]
             }
@@ -4156,14 +4156,14 @@
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 849
+                  "latency_ms": 751
                 },
                 {
                   "url": "https://cdimage.ubuntu.com/releases/25.04/release/ubuntu-25.04-preinstalled-server-riscv64+unmatched.img.xz",
                   "available": true,
                   "status_code": 200,
                   "error": null,
-                  "latency_ms": 301
+                  "latency_ms": 389
                 }
               ]
             }
