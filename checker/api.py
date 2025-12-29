@@ -100,37 +100,57 @@ def format_distfiles(data: dict) -> str:
     """Format distfiles for display."""
     lines = []
     distfiles = data.get("distfiles", [])
-
+    
     if not distfiles:
         return "No distfiles."
-
+    
+    available = []
+    missing = []
+    
     for df in distfiles:
         dist_name = df.get("name", "unknown")
         urls = df.get("urls", [])
-
+        
         if not urls:
-            lines.append(
-                f'name: "{dist_name}"\n'
-                f'url: "-"\n'
-                f'status: "No URLs"\n'
-                + "-" * 30
+            missing.append(
+                f"Name: {dist_name}\n"
+                f"Status: No URLs\n"
             )
             continue
-
+        
         for u in urls:
             url = u.get("url") or "-"
             status_code = u.get("status_code")
             is_available = u.get("available")
             status_text = format_status(is_available, status_code)
-
-            lines.append(
-                f'name: "{dist_name}"\n'
-                f'url: "{url}"\n'
-                f'status: "{status_text}"\n'
-                + "-" * 30
+            
+            item = (
+                f"Name: {dist_name}\n"
+                f"URL: {url}\n"
+                f"Status: {status_text}\n"
             )
-
-    return "\n".join(lines).rstrip("- ")
+            
+            if is_available:
+                available.append(item)
+            else:
+                missing.append(item)
+    
+    # Available files first
+    if available:
+        lines.append("AVAILABLE FILES\n" + "=" * 40)
+        lines.extend(available)
+    
+    # Then missing files
+    if missing:
+        lines.append("\nMISSING FILES\n" + "=" * 40)
+        lines.extend(missing)
+    
+    # Summary
+    total = len(available) + len(missing)
+    lines.append("=" * 40)
+    lines.append(f"Summary: {len(available)}/{total} available")
+    
+    return "\n".join(lines)
 
 
 
@@ -142,9 +162,9 @@ async def boards_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
             await update.message.reply_text("No boards available.")
             return
 
-        board_list = "\n".join(f"- {b}" for b in sorted(boards.keys()))
+        board_list = "\n".join(f"`{b}`" for b in sorted(boards.keys()))
         msg = f"Available Boards:\n\n{board_list}"
-        await update.message.reply_text(msg)
+        await update.message.reply_text(msg, parse_mode="Markdown")
     except Exception as e:
         logger.error(f"Failed to fetch boards: {e}")
         await update.message.reply_text("Error fetching boards.")
