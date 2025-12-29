@@ -118,30 +118,20 @@ def format_distfiles(data: dict) -> str:
             continue
 
         for u in urls:
-            entries = u.get("entries", [])
-            if not entries:
-                lines.append(
-                    f'name: "{dist_name}"\n'
-                    f'url: "-"\n'
-                    f'status: "No entries"\n'
-                    + "-" * 30
-                )
-                continue
+            url = u.get("url") or "-"
+            status_code = u.get("status_code")
+            is_available = u.get("available")
+            status_text = format_status(is_available, status_code)
 
-            for entry in entries:
-                url = entry.get("url") or "-"
-                status_code = entry.get("status_code")
-                is_available = entry.get("available")
-                status_text = format_status(is_available, status_code)
-
-                lines.append(
-                    f'name: "{dist_name}"\n'
-                    f'url: "{url}"\n'
-                    f'status: "{status_text}"\n'
-                    + "-" * 30
-                )
+            lines.append(
+                f'name: "{dist_name}"\n'
+                f'url: "{url}"\n'
+                f'status: "{status_text}"\n'
+                + "-" * 30
+            )
 
     return "\n".join(lines).rstrip("- ")
+
 
 
 async def boards_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
