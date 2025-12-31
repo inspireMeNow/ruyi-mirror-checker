@@ -5,7 +5,7 @@ from typing import Dict, Any
 from os import environ
 from fastapi import FastAPI, Request, HTTPException
 from telegram import Update
-from telegram.ext import Application, CommandHandler, ContextTypes
+from telegram.ext import Application, CommandHandler, ContextTypes, MessageHandler, filters
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -62,6 +62,7 @@ def get_telegram_app():
         telegram_app.add_handler(CommandHandler("boards", boards_command))
         telegram_app.add_handler(CommandHandler("board", board_command))
         telegram_app.add_handler(CommandHandler(["start", "help"], start_command))
+        telegram_app.add_handler(MessageHandler(filters.ALL, start_command))
     return telegram_app
 
 
