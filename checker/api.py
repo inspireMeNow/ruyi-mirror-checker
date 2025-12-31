@@ -159,12 +159,12 @@ def format_distfiles(data: dict) -> str:
     
     # Available files first
     if available:
-        lines.append("AVAILABLE FILES\n" + "=" * 40)
+        lines.append("Available Files\n" + "=" * 40)
         lines.extend(available)
     
     # Then missing files
     if missing:
-        lines.append("\nMISSING FILES\n" + "=" * 40)
+        lines.append("\nMissing Files\n" + "=" * 40)
         lines.extend(missing)
     
     # Summary
