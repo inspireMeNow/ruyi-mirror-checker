@@ -1,6 +1,6 @@
 # Ruyi Mirror Checker
 
-A monitoring service for checking the availability of mirror URLs and board images in the Ruyi package.  The service provides both a FastAPI and a Telegram Bot interface for querying mirror status.
+A monitoring service for checking the availability of board image URLs in the RuyiSDK package.  The service provides both a FastAPI and a Telegram Bot interface for querying mirror status.
 
 ## Architecture
 
