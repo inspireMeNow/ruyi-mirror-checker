@@ -33,18 +33,16 @@ jobs:
           mkdir -p /tmp/publish/
           mv ./*.json /tmp/publish/ 2>/dev/null || true
 
-      - name: Checkout hidden branch
-        run: |
-          git fetch origin hidden
-          git checkout -B hidden origin/hidden
-
       - name: Git push assets to "hidden" branch
         run: |
+          git checkout --orphan hidden
+          git rm -rf . 2>/dev/null || true
+          git clean -fdx
           cp -r /tmp/publish/* .
           rm -rf /tmp/publish
           rm -rf packages-index
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add status.json
-          git commit -m "Update mirror check results ($(date -u +"%Y-%m-%d %H:%M %Z"))" || echo "No changes"
+          git commit -m "update mirror check results ($(date -u +"%Y-%m-%d %H:%M %Z"))" || echo "no changes"
           git push origin hidden -f
