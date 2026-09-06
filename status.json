@@ -1,0 +1,4836 @@
+{
+  "generated_at": "2026-09-06T20:14:29.007002+00:00",
+  "boards": {
+    "arduino-milkv-duo-sd": {
+      "distfiles": [
+        {
+          "name": "arduino-milkv-duo-sd-v1.1.2-2024-0801.ruyi1.img.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "ruyi-3rdparty-milkv",
+              "path": "repacks/arduino-milkv-duo-sd-v1.1.2-2024-0801.ruyi1.img.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/ruyisdk/3rdparty/milkv/repacks/arduino-milkv-duo-sd-v1.1.2-2024-0801.ruyi1.img.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 1746
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "arduino-milkv-duo-sd-v1.1.2-2024-0801.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-duo/duo-buildroot-sdk/releases/download/Duo-V1.1.2/arduino-milkv-duo-sd-v1.1.2-2024-0801.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 143
+            }
+          ]
+        },
+        {
+          "name": "arduino-milkv-duo-sd-v1.1.4.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-duo/duo-buildroot-sdk/releases/download/v1.1.4/arduino-milkv-duo-sd-v1.1.4.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 122
+            }
+          ]
+        }
+      ]
+    },
+    "arduino-milkv-duo256m-sd": {
+      "distfiles": [
+        {
+          "name": "arduino-milkv-duo256m-sd-v1.1.2-2024-0801.ruyi1.img.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "ruyi-3rdparty-milkv",
+              "path": "repacks/arduino-milkv-duo256m-sd-v1.1.2-2024-0801.ruyi1.img.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/ruyisdk/3rdparty/milkv/repacks/arduino-milkv-duo256m-sd-v1.1.2-2024-0801.ruyi1.img.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 892
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "arduino-milkv-duo256m-sd-v1.1.2-2024-0801.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-duo/duo-buildroot-sdk/releases/download/Duo-V1.1.2/arduino-milkv-duo256m-sd-v1.1.2-2024-0801.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 184
+            }
+          ]
+        },
+        {
+          "name": "arduino-milkv-duo256m-sd-v1.1.4.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-duo/duo-buildroot-sdk/releases/download/v1.1.4/arduino-milkv-duo256m-sd-v1.1.4.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 147
+            }
+          ]
+        }
+      ]
+    },
+    "armbian-orangepi-rv2-minimal": {
+      "distfiles": [
+        {
+          "name": "Armbian_community_26.8.0-trunk.121_Orangepirv2_trixie_current_6.18.34_minimal.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/armbian/community/releases/download/26.8.0-trunk.121/Armbian_community_26.8.0-trunk.121_Orangepirv2_trixie_current_6.18.34_minimal.img.xz",
+              "available": false,
+              "status_code": 404,
+              "error": null,
+              "latency_ms": 112
+            }
+          ]
+        },
+        {
+          "name": "Armbian_community_26.8.0-trunk.160_Orangepirv2_trixie_current_6.18.35_minimal.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/armbian/community/releases/download/26.8.0-trunk.160/Armbian_community_26.8.0-trunk.160_Orangepirv2_trixie_current_6.18.35_minimal.img.xz",
+              "available": false,
+              "status_code": 404,
+              "error": null,
+              "latency_ms": 199
+            }
+          ]
+        },
+        {
+          "name": "Armbian_community_26.8.0-trunk.169_Orangepirv2_trixie_current_6.18.35_minimal.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/armbian/community/releases/download/26.8.0-trunk.169/Armbian_community_26.8.0-trunk.169_Orangepirv2_trixie_current_6.18.35_minimal.img.xz",
+              "available": false,
+              "status_code": 404,
+              "error": null,
+              "latency_ms": 148
+            }
+          ]
+        },
+        {
+          "name": "Armbian_community_26.8.0-trunk.170_Orangepirv2_trixie_current_6.18.35_minimal.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/armbian/community/releases/download/26.8.0-trunk.170/Armbian_community_26.8.0-trunk.170_Orangepirv2_trixie_current_6.18.35_minimal.img.xz",
+              "available": false,
+              "status_code": 404,
+              "error": null,
+              "latency_ms": 108
+            }
+          ]
+        },
+        {
+          "name": "Armbian_community_26.8.0-trunk.194_Orangepirv2_trixie_current_6.18.35_minimal.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/armbian/community/releases/download/26.8.0-trunk.194/Armbian_community_26.8.0-trunk.194_Orangepirv2_trixie_current_6.18.35_minimal.img.xz",
+              "available": false,
+              "status_code": 404,
+              "error": null,
+              "latency_ms": 116
+            }
+          ]
+        },
+        {
+          "name": "Armbian_community_26.8.0-trunk.238_Orangepirv2_trixie_current_6.18.36_minimal.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/armbian/community/releases/download/26.8.0-trunk.238/Armbian_community_26.8.0-trunk.238_Orangepirv2_trixie_current_6.18.36_minimal.img.xz",
+              "available": false,
+              "status_code": 404,
+              "error": null,
+              "latency_ms": 116
+            }
+          ]
+        }
+      ]
+    },
+    "armbian-orangepi-rv2-xfce": {
+      "distfiles": [
+        {
+          "name": "Armbian_community_26.8.0-trunk.121_Orangepirv2_noble_current_6.18.34_xfce_desktop.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/armbian/community/releases/download/26.8.0-trunk.121/Armbian_community_26.8.0-trunk.121_Orangepirv2_noble_current_6.18.34_xfce_desktop.img.xz",
+              "available": false,
+              "status_code": 404,
+              "error": null,
+              "latency_ms": 114
+            }
+          ]
+        },
+        {
+          "name": "Armbian_community_26.8.0-trunk.160_Orangepirv2_noble_current_6.18.35_xfce_desktop.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/armbian/community/releases/download/26.8.0-trunk.160/Armbian_community_26.8.0-trunk.160_Orangepirv2_noble_current_6.18.35_xfce_desktop.img.xz",
+              "available": false,
+              "status_code": 404,
+              "error": null,
+              "latency_ms": 141
+            }
+          ]
+        },
+        {
+          "name": "Armbian_community_26.8.0-trunk.170_Orangepirv2_noble_current_6.18.35_xfce_desktop.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/armbian/community/releases/download/26.8.0-trunk.170/Armbian_community_26.8.0-trunk.170_Orangepirv2_noble_current_6.18.35_xfce_desktop.img.xz",
+              "available": false,
+              "status_code": 404,
+              "error": null,
+              "latency_ms": 94
+            }
+          ]
+        },
+        {
+          "name": "Armbian_community_26.8.0-trunk.238_Orangepirv2_noble_current_6.18.36_xfce_desktop.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/armbian/community/releases/download/26.8.0-trunk.238/Armbian_community_26.8.0-trunk.238_Orangepirv2_noble_current_6.18.36_xfce_desktop.img.xz",
+              "available": false,
+              "status_code": 404,
+              "error": null,
+              "latency_ms": 164
+            }
+          ]
+        }
+      ]
+    },
+    "armbian-spacemit-musepipro-minimal": {
+      "distfiles": [
+        {
+          "name": "Armbian_26.8.0-trunk.216_Musepipro_forky_current_6.18.36_minimal.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/armbian/os/releases/download/26.8.0-trunk.216/Armbian_26.8.0-trunk.216_Musepipro_forky_current_6.18.36_minimal.img.xz",
+              "available": false,
+              "status_code": 404,
+              "error": null,
+              "latency_ms": 254
+            }
+          ]
+        },
+        {
+          "name": "Armbian_26.8.0-trunk.228_Musepipro_forky_current_6.18.36_minimal.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/armbian/os/releases/download/26.8.0-trunk.228/Armbian_26.8.0-trunk.228_Musepipro_forky_current_6.18.36_minimal.img.xz",
+              "available": false,
+              "status_code": 404,
+              "error": null,
+              "latency_ms": 148
+            }
+          ]
+        },
+        {
+          "name": "Armbian_26.8.0-trunk.232_Musepipro_forky_current_6.18.36_minimal.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/armbian/os/releases/download/26.8.0-trunk.232/Armbian_26.8.0-trunk.232_Musepipro_forky_current_6.18.36_minimal.img.xz",
+              "available": false,
+              "status_code": 404,
+              "error": null,
+              "latency_ms": 139
+            }
+          ]
+        },
+        {
+          "name": "Armbian_26.8.0-trunk.237_Musepipro_forky_current_6.18.36_minimal.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/armbian/os/releases/download/26.8.0-trunk.237/Armbian_26.8.0-trunk.237_Musepipro_forky_current_6.18.36_minimal.img.xz",
+              "available": false,
+              "status_code": 404,
+              "error": null,
+              "latency_ms": 146
+            }
+          ]
+        },
+        {
+          "name": "Armbian_26.8.0-trunk.244_Musepipro_forky_current_6.18.36_minimal.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/armbian/os/releases/download/26.8.0-trunk.244/Armbian_26.8.0-trunk.244_Musepipro_forky_current_6.18.36_minimal.img.xz",
+              "available": false,
+              "status_code": 404,
+              "error": null,
+              "latency_ms": 118
+            }
+          ]
+        }
+      ]
+    },
+    "armbian-spacemit-musepipro-xfce": {
+      "distfiles": [
+        {
+          "name": "Armbian_26.8.0-trunk.228_Musepipro_noble_current_6.18.36_xfce_desktop.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/armbian/os/releases/download/26.8.0-trunk.228/Armbian_26.8.0-trunk.228_Musepipro_noble_current_6.18.36_xfce_desktop.img.xz",
+              "available": false,
+              "status_code": 404,
+              "error": null,
+              "latency_ms": 111
+            }
+          ]
+        },
+        {
+          "name": "Armbian_26.8.0-trunk.232_Musepipro_noble_current_6.18.36_xfce_desktop.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/armbian/os/releases/download/26.8.0-trunk.232/Armbian_26.8.0-trunk.232_Musepipro_noble_current_6.18.36_xfce_desktop.img.xz",
+              "available": false,
+              "status_code": 404,
+              "error": null,
+              "latency_ms": 246
+            }
+          ]
+        },
+        {
+          "name": "Armbian_26.8.0-trunk.237_Musepipro_noble_current_6.18.36_xfce_desktop.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/armbian/os/releases/download/26.8.0-trunk.237/Armbian_26.8.0-trunk.237_Musepipro_noble_current_6.18.36_xfce_desktop.img.xz",
+              "available": false,
+              "status_code": 404,
+              "error": null,
+              "latency_ms": 140
+            }
+          ]
+        },
+        {
+          "name": "Armbian_26.8.0-trunk.294_Musepipro_noble_current_6.18.37_xfce_desktop.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/armbian/os/releases/download/26.8.0-trunk.294/Armbian_26.8.0-trunk.294_Musepipro_noble_current_6.18.37_xfce_desktop.img.xz",
+              "available": false,
+              "status_code": 404,
+              "error": null,
+              "latency_ms": 119
+            }
+          ]
+        },
+        {
+          "name": "Armbian_26.8.0-trunk.303_Musepipro_noble_current_6.18.37_xfce_desktop.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/armbian/os/releases/download/26.8.0-trunk.303/Armbian_26.8.0-trunk.303_Musepipro_noble_current_6.18.37_xfce_desktop.img.xz",
+              "available": false,
+              "status_code": 404,
+              "error": null,
+              "latency_ms": 128
+            }
+          ]
+        }
+      ]
+    },
+    "armbian-starfive-visionfive2-minimal": {
+      "distfiles": [
+        {
+          "name": "Armbian_community_26.8.0-trunk.121_Visionfive2_trixie_vendor_6.6.20_minimal.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/armbian/community/releases/download/26.8.0-trunk.121/Armbian_community_26.8.0-trunk.121_Visionfive2_trixie_vendor_6.6.20_minimal.img.xz",
+              "available": false,
+              "status_code": 404,
+              "error": null,
+              "latency_ms": 127
+            }
+          ]
+        },
+        {
+          "name": "Armbian_community_26.8.0-trunk.160_Visionfive2_trixie_vendor_6.6.20_minimal.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/armbian/community/releases/download/26.8.0-trunk.160/Armbian_community_26.8.0-trunk.160_Visionfive2_trixie_vendor_6.6.20_minimal.img.xz",
+              "available": false,
+              "status_code": 404,
+              "error": null,
+              "latency_ms": 306
+            }
+          ]
+        },
+        {
+          "name": "Armbian_community_26.8.0-trunk.169_Visionfive2_trixie_vendor_6.6.20_minimal.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/armbian/community/releases/download/26.8.0-trunk.169/Armbian_community_26.8.0-trunk.169_Visionfive2_trixie_vendor_6.6.20_minimal.img.xz",
+              "available": false,
+              "status_code": 404,
+              "error": null,
+              "latency_ms": 97
+            }
+          ]
+        },
+        {
+          "name": "Armbian_community_26.8.0-trunk.170_Visionfive2_trixie_vendor_6.6.20_minimal.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/armbian/community/releases/download/26.8.0-trunk.170/Armbian_community_26.8.0-trunk.170_Visionfive2_trixie_vendor_6.6.20_minimal.img.xz",
+              "available": false,
+              "status_code": 404,
+              "error": null,
+              "latency_ms": 92
+            }
+          ]
+        },
+        {
+          "name": "Armbian_community_26.8.0-trunk.194_Visionfive2_trixie_vendor_6.6.20_minimal.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/armbian/community/releases/download/26.8.0-trunk.194/Armbian_community_26.8.0-trunk.194_Visionfive2_trixie_vendor_6.6.20_minimal.img.xz",
+              "available": false,
+              "status_code": 404,
+              "error": null,
+              "latency_ms": 127
+            }
+          ]
+        }
+      ]
+    },
+    "armbian-starfive-visionfive2-xfce": {
+      "distfiles": [
+        {
+          "name": "Armbian_community_26.8.0-trunk.121_Visionfive2_noble_vendor_6.6.20_xfce_desktop.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/armbian/community/releases/download/26.8.0-trunk.121/Armbian_community_26.8.0-trunk.121_Visionfive2_noble_vendor_6.6.20_xfce_desktop.img.xz",
+              "available": false,
+              "status_code": 404,
+              "error": null,
+              "latency_ms": 87
+            }
+          ]
+        },
+        {
+          "name": "Armbian_community_26.8.0-trunk.160_Visionfive2_noble_vendor_6.6.20_xfce_desktop.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/armbian/community/releases/download/26.8.0-trunk.160/Armbian_community_26.8.0-trunk.160_Visionfive2_noble_vendor_6.6.20_xfce_desktop.img.xz",
+              "available": false,
+              "status_code": 404,
+              "error": null,
+              "latency_ms": 97
+            }
+          ]
+        },
+        {
+          "name": "Armbian_community_26.8.0-trunk.169_Visionfive2_noble_vendor_6.6.20_xfce_desktop.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/armbian/community/releases/download/26.8.0-trunk.169/Armbian_community_26.8.0-trunk.169_Visionfive2_noble_vendor_6.6.20_xfce_desktop.img.xz",
+              "available": false,
+              "status_code": 404,
+              "error": null,
+              "latency_ms": 116
+            }
+          ]
+        },
+        {
+          "name": "Armbian_community_26.8.0-trunk.170_Visionfive2_noble_vendor_6.6.20_xfce_desktop.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/armbian/community/releases/download/26.8.0-trunk.170/Armbian_community_26.8.0-trunk.170_Visionfive2_noble_vendor_6.6.20_xfce_desktop.img.xz",
+              "available": false,
+              "status_code": 404,
+              "error": null,
+              "latency_ms": 93
+            }
+          ]
+        },
+        {
+          "name": "Armbian_community_26.8.0-trunk.194_Visionfive2_noble_vendor_6.6.20_xfce_desktop.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/armbian/community/releases/download/26.8.0-trunk.194/Armbian_community_26.8.0-trunk.194_Visionfive2_noble_vendor_6.6.20_xfce_desktop.img.xz",
+              "available": false,
+              "status_code": 404,
+              "error": null,
+              "latency_ms": 123
+            }
+          ]
+        }
+      ]
+    },
+    "bianbu-desktop-lite-spacemit-k1": {
+      "distfiles": [
+        {
+          "name": "bianbu-24.04-desktop-lite-k1-v2.2-release-20250430185050.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.2/bianbu-24.04-desktop-lite-k1-v2.2-release-20250430185050.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 1023
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-lite-k1-v2.2.1-release-20250815215854.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.2.1/bianbu-24.04-desktop-lite-k1-v2.2.1-release-20250815215854.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 2454
+            }
+          ]
+        },
+        {
+          "name": "Bianbu-LXQt-K1-V2.3.3-20260128190347.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.3.3/Bianbu-LXQt-K1-V2.3.3-20260128190347.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 117
+            }
+          ]
+        },
+        {
+          "name": "bianbu-25.04-desktop-lite-k1-v3.0-release-20250725124256.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v3.0/bianbu-25.04-desktop-lite-k1-v3.0-release-20250725124256.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 115
+            }
+          ]
+        },
+        {
+          "name": "bianbu-25.04-desktop-lite-k1-v3.0.1-release-20250815184229.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v3.0.1/bianbu-25.04-desktop-lite-k1-v3.0.1-release-20250815184229.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 70
+            }
+          ]
+        }
+      ]
+    },
+    "bianbu-desktop-lite-spacemit-k1-sd": {
+      "distfiles": [
+        {
+          "name": "bianbu-24.04-desktop-lite-k1-v2.2-release-20250430185050.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.2/bianbu-24.04-desktop-lite-k1-v2.2-release-20250430185050.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 718
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-lite-k1-v2.2.1-release-20250815215854.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.2.1/bianbu-24.04-desktop-lite-k1-v2.2.1-release-20250815215854.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 683
+            }
+          ]
+        },
+        {
+          "name": "Bianbu-LXQt-K1-sdcard-V2.3.3-20260128190347.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.3.3/Bianbu-LXQt-K1-sdcard-V2.3.3-20260128190347.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 135
+            }
+          ]
+        },
+        {
+          "name": "bianbu-25.04-desktop-lite-k1-v3.0-release-20250725124256.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v3.0/bianbu-25.04-desktop-lite-k1-v3.0-release-20250725124256.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 2704
+            }
+          ]
+        },
+        {
+          "name": "bianbu-25.04-desktop-lite-k1-v3.0.1-release-20250815184229.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v3.0.1/bianbu-25.04-desktop-lite-k1-v3.0.1-release-20250815184229.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 665
+            }
+          ]
+        }
+      ]
+    },
+    "bianbu-desktop-lite-uefi-spacemit-k1": {
+      "distfiles": [
+        {
+          "name": "Bianbu-LXQt-K1-V2.3.3-UEFI-20260407142626.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.3.3/Bianbu-LXQt-K1-V2.3.3-UEFI-20260407142626.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 719
+            }
+          ]
+        }
+      ]
+    },
+    "bianbu-desktop-lite-uefi-spacemit-k1-sd": {
+      "distfiles": [
+        {
+          "name": "Bianbu-LXQt-K1-sdcard-V2.3.3-UEFI-20260407142626.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.3.3/Bianbu-LXQt-K1-sdcard-V2.3.3-UEFI-20260407142626.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 46
+            }
+          ]
+        }
+      ]
+    },
+    "bianbu-desktop-lxqt-spacemit-k3": {
+      "distfiles": [
+        {
+          "name": "Bianbu-LXQt-K3-v4.0-20260430170328.tar.gz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k3/version/bianbu/v4.0/Bianbu-LXQt-K3-v4.0-20260430170328.tar.gz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 40
+            }
+          ]
+        },
+        {
+          "name": "Bianbu-LXQt-K3-v4.0.1-20260521185240.tar.gz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k3/version/bianbu/v4.0.1/Bianbu-LXQt-K3-v4.0.1-20260521185240.tar.gz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 46
+            }
+          ]
+        }
+      ]
+    },
+    "bianbu-desktop-lxqt-spacemit-k3-sd": {
+      "distfiles": [
+        {
+          "name": "Bianbu-LXQt-K3-sdcard-v4.0-20260430170328.img.gz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k3/version/bianbu/v4.0/Bianbu-LXQt-K3-sdcard-v4.0-20260430170328.img.gz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 759
+            }
+          ]
+        },
+        {
+          "name": "Bianbu-LXQt-K3-sdcard-v4.0.1-20260521185240.img.gz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k3/version/bianbu/v4.0.1/Bianbu-LXQt-K3-sdcard-v4.0.1-20260521185240.img.gz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 69
+            }
+          ]
+        }
+      ]
+    },
+    "bianbu-desktop-lxqt-uefi-spacemit-k3": {
+      "distfiles": [
+        {
+          "name": "Bianbu-LXQt-UEFI-K3-v4.0-20260430171239.tar.gz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k3/version/bianbu/v4.0/Bianbu-LXQt-UEFI-K3-v4.0-20260430171239.tar.gz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 106
+            }
+          ]
+        },
+        {
+          "name": "Bianbu-LXQt-UEFI-K3-v4.0.1-20260521185157.tar.gz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k3/version/bianbu/v4.0.1/Bianbu-LXQt-UEFI-K3-v4.0.1-20260521185157.tar.gz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 117
+            }
+          ]
+        }
+      ]
+    },
+    "bianbu-desktop-spacemit-k1": {
+      "distfiles": [
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.0-release-20241021195251.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.0/bianbu-24.04-desktop-k1-v2.0-release-20241021195251.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 684
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.0.1-release-20241025234454.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.0.1/bianbu-24.04-desktop-k1-v2.0.1-release-20241025234454.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 760
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.0.2-release-20241111222735.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.0.2/bianbu-24.04-desktop-k1-v2.0.2-release-20241111222735.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 679
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.0.4-release-20241206002355.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.0.4/bianbu-24.04-desktop-k1-v2.0.4-release-20241206002355.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 772
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.1-release-20250124144655.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.1/bianbu-24.04-desktop-k1-v2.1-release-20250124144655.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 640
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.1.1-release-20250305144026.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.1.1/bianbu-24.04-desktop-k1-v2.1.1-release-20250305144026.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 644
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.1.2-release-20250421172038.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.1.2/bianbu-24.04-desktop-k1-v2.1.2-release-20250421172038.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 703
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.2-release-20250430190125.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.2/bianbu-24.04-desktop-k1-v2.2-release-20250430190125.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 44
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.2.1-release-20250815220536.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.2.1/bianbu-24.04-desktop-k1-v2.2.1-release-20250815220536.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 676
+            }
+          ]
+        },
+        {
+          "name": "Bianbu-GNOME-K1-V2.3.3-20260128191729.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.3.3/Bianbu-GNOME-K1-V2.3.3-20260128191729.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 663
+            }
+          ]
+        },
+        {
+          "name": "bianbu-25.04-desktop-k1-v3.0-release-20250725125828.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v3.0/bianbu-25.04-desktop-k1-v3.0-release-20250725125828.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 111
+            }
+          ]
+        },
+        {
+          "name": "bianbu-25.04-desktop-k1-v3.0.1-release-20250815185656.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v3.0.1/bianbu-25.04-desktop-k1-v3.0.1-release-20250815185656.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 43
+            }
+          ]
+        }
+      ]
+    },
+    "bianbu-desktop-spacemit-k1-sd": {
+      "distfiles": [
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.0-release-20241021195251.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.0/bianbu-24.04-desktop-k1-v2.0-release-20241021195251.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 675
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.0.1-release-20241025234454.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.0.1/bianbu-24.04-desktop-k1-v2.0.1-release-20241025234454.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 642
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.0.2-release-20241111222735.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.0.2/bianbu-24.04-desktop-k1-v2.0.2-release-20241111222735.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 619
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.0.4-release-20241206002355.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.0.4/bianbu-24.04-desktop-k1-v2.0.4-release-20241206002355.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 608
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.1-release-20250124144655.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.1/bianbu-24.04-desktop-k1-v2.1-release-20250124144655.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 628
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.1.1-release-20250305144026.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.1.1/bianbu-24.04-desktop-k1-v2.1.1-release-20250305144026.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 695
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.1.2-release-20250421172038.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.1.2/bianbu-24.04-desktop-k1-v2.1.2-release-20250421172038.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 678
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.2-release-20250430190125.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.2/bianbu-24.04-desktop-k1-v2.2-release-20250430190125.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 702
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.2.1-release-20250815220536.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.2.1/bianbu-24.04-desktop-k1-v2.2.1-release-20250815220536.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 789
+            }
+          ]
+        },
+        {
+          "name": "Bianbu-GNOME-K1-sdcard-V2.3.3-20260128191729.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.3.3/Bianbu-GNOME-K1-sdcard-V2.3.3-20260128191729.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 48
+            }
+          ]
+        },
+        {
+          "name": "bianbu-25.04-desktop-k1-v3.0-release-20250725125828.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v3.0/bianbu-25.04-desktop-k1-v3.0-release-20250725125828.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 140
+            }
+          ]
+        },
+        {
+          "name": "bianbu-25.04-desktop-k1-v3.0.1-release-20250815185656.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v3.0.1/bianbu-25.04-desktop-k1-v3.0.1-release-20250815185656.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 615
+            }
+          ]
+        }
+      ]
+    },
+    "bianbu-minimal-spacemit-k1": {
+      "distfiles": [
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.0-release-20241021195251.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.0/bianbu-24.04-desktop-k1-v2.0-release-20241021195251.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 569
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.0.1-release-20241025234454.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.0.1/bianbu-24.04-desktop-k1-v2.0.1-release-20241025234454.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 570
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.0.2-release-20241111222735.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.0.2/bianbu-24.04-desktop-k1-v2.0.2-release-20241111222735.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 626
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.0.4-release-20241206002355.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.0.4/bianbu-24.04-desktop-k1-v2.0.4-release-20241206002355.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 576
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.1-release-20250124144655.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.1/bianbu-24.04-desktop-k1-v2.1-release-20250124144655.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 586
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.1.1-release-20250305144026.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.1.1/bianbu-24.04-desktop-k1-v2.1.1-release-20250305144026.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 564
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.1.2-release-20250421172038.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.1.2/bianbu-24.04-desktop-k1-v2.1.2-release-20250421172038.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 569
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.2-release-20250430190125.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.2/bianbu-24.04-desktop-k1-v2.2-release-20250430190125.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 38
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-desktop-k1-v2.2.1-release-20250815220536.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.2.1/bianbu-24.04-desktop-k1-v2.2.1-release-20250815220536.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 592
+            }
+          ]
+        },
+        {
+          "name": "Bianbu-Minimal-K1-V2.3.3-20260128183217.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.3.3/Bianbu-Minimal-K1-V2.3.3-20260128183217.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 47
+            }
+          ]
+        },
+        {
+          "name": "bianbu-25.04-desktop-k1-v3.0-release-20250725125828.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v3.0/bianbu-25.04-desktop-k1-v3.0-release-20250725125828.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 31
+            }
+          ]
+        },
+        {
+          "name": "bianbu-25.04-desktop-k1-v3.0.1-release-20250815185656.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v3.0.1/bianbu-25.04-desktop-k1-v3.0.1-release-20250815185656.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 33
+            }
+          ]
+        }
+      ]
+    },
+    "bianbu-minimal-spacemit-k1-sd": {
+      "distfiles": [
+        {
+          "name": "bianbu-24.04-minimal-k1-v2.0-release-20241021191106.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.0/bianbu-24.04-minimal-k1-v2.0-release-20241021191106.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 649
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-minimal-k1-v2.0.1-release-20241025230306.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.0.1/bianbu-24.04-minimal-k1-v2.0.1-release-20241025230306.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 706
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-minimal-k1-v2.0.2-release-20241111214520.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.0.2/bianbu-24.04-minimal-k1-v2.0.2-release-20241111214520.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 42
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-minimal-k1-v2.0.4-release-20241205234138.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.0.4/bianbu-24.04-minimal-k1-v2.0.4-release-20241205234138.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 53
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-minimal-k1-v2.1-release-20250124140410.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.1/bianbu-24.04-minimal-k1-v2.1-release-20250124140410.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 38
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-minimal-k1-v2.1.1-release-20250305135614.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.1.1/bianbu-24.04-minimal-k1-v2.1.1-release-20250305135614.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 605
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-minimal-k1-v2.1.2-release-20250421163722.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.1.2/bianbu-24.04-minimal-k1-v2.1.2-release-20250421163722.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 674
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-minimal-k1-v2.2-release-20250430181626.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.2/bianbu-24.04-minimal-k1-v2.2-release-20250430181626.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 619
+            }
+          ]
+        },
+        {
+          "name": "bianbu-24.04-minimal-k1-v2.2.1-release-20250815212223.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.2.1/bianbu-24.04-minimal-k1-v2.2.1-release-20250815212223.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 625
+            }
+          ]
+        },
+        {
+          "name": "Bianbu-Minimal-K1-sdcard-V2.3.3-20260128183217.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v2.3.3/Bianbu-Minimal-K1-sdcard-V2.3.3-20260128183217.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 38
+            }
+          ]
+        },
+        {
+          "name": "bianbu-25.04-minimal-k1-v3.0-release-20250725114639.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v3.0/bianbu-25.04-minimal-k1-v3.0-release-20250725114639.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 47
+            }
+          ]
+        },
+        {
+          "name": "bianbu-25.04-minimal-k1-v3.0.1-release-20250815180414.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k1/version/bianbu/v3.0.1/bianbu-25.04-minimal-k1-v3.0.1-release-20250815180414.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 704
+            }
+          ]
+        }
+      ]
+    },
+    "bianbu-minimal-spacemit-k3": {
+      "distfiles": [
+        {
+          "name": "Bianbu-Minimal-K3-v4.0-20260430165016.tar.gz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k3/version/bianbu/v4.0/Bianbu-Minimal-K3-v4.0-20260430165016.tar.gz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 67
+            }
+          ]
+        },
+        {
+          "name": "Bianbu-Minimal-K3-v4.0.1-20260521183730.tar.gz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k3/version/bianbu/v4.0.1/Bianbu-Minimal-K3-v4.0.1-20260521183730.tar.gz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 69
+            }
+          ]
+        }
+      ]
+    },
+    "bianbu-minimal-spacemit-k3-sd": {
+      "distfiles": [
+        {
+          "name": "Bianbu-Minimal-K3-sdcard-v4.0-20260430165016.img.gz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k3/version/bianbu/v4.0/Bianbu-Minimal-K3-sdcard-v4.0-20260430165016.img.gz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 41
+            }
+          ]
+        },
+        {
+          "name": "Bianbu-Minimal-K3-sdcard-v4.0.1-20260521183730.img.gz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k3/version/bianbu/v4.0.1/Bianbu-Minimal-K3-sdcard-v4.0.1-20260521183730.img.gz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 57
+            }
+          ]
+        }
+      ]
+    },
+    "bianbu-minimal-uefi-spacemit-k3": {
+      "distfiles": [
+        {
+          "name": "Bianbu-Minimal-UEFI-K3-v4.0-20260430165035.tar.gz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k3/version/bianbu/v4.0/Bianbu-Minimal-UEFI-K3-v4.0-20260430165035.tar.gz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 39
+            }
+          ]
+        },
+        {
+          "name": "Bianbu-Minimal-UEFI-K3-v4.0.1-20260521183844.tar.gz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://archive.spacemit.com/image/k3/version/bianbu/v4.0.1/Bianbu-Minimal-UEFI-K3-v4.0.1-20260521183844.tar.gz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 52
+            }
+          ]
+        }
+      ]
+    },
+    "buildroot-sdk-milkv-duo": {
+      "distfiles": [
+        {
+          "name": "milkv-duo-python-v1.0.7-2023-1223.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-duo/duo-buildroot-sdk/releases/download/Duo-V1.0.7/milkv-duo-python-v1.0.7-2023-1223.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 164
+            }
+          ]
+        },
+        {
+          "name": "milkv-duo-v1.0.9-2024-0226.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-duo/duo-buildroot-sdk/releases/download/Duo-V1.0.9/milkv-duo-v1.0.9-2024-0226.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 126
+            }
+          ]
+        },
+        {
+          "name": "milkv-duo-v1.1.0-2024-0410.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-duo/duo-buildroot-sdk/releases/download/Duo-V1.1.0/milkv-duo-v1.1.0-2024-0410.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 127
+            }
+          ]
+        },
+        {
+          "name": "milkv-duo-v1.1.1-2024-0528.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-duo/duo-buildroot-sdk/releases/download/Duo-V1.1.1/milkv-duo-v1.1.1-2024-0528.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 138
+            }
+          ]
+        },
+        {
+          "name": "milkv-duo-sd-v1.1.2-2024-0801.ruyi1.img.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "ruyi-3rdparty-milkv",
+              "path": "repacks/milkv-duo-sd-v1.1.2-2024-0801.ruyi1.img.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/ruyisdk/3rdparty/milkv/repacks/milkv-duo-sd-v1.1.2-2024-0801.ruyi1.img.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 903
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "milkv-duo-sd-v1.1.2-2024-0801.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-duo/duo-buildroot-sdk/releases/download/Duo-V1.1.2/milkv-duo-sd-v1.1.2-2024-0801.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 123
+            }
+          ]
+        },
+        {
+          "name": "milkv-duo-sd-v1.1.3-2024-0930.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-duo/duo-buildroot-sdk/releases/download/v1.1.3/milkv-duo-sd-v1.1.3-2024-0930.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 138
+            }
+          ]
+        },
+        {
+          "name": "milkv-duo-sd-v1.1.4.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-duo/duo-buildroot-sdk/releases/download/v1.1.4/milkv-duo-sd-v1.1.4.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 146
+            }
+          ]
+        },
+        {
+          "name": "milkv-duo-musl-riscv64-sd_v2.0.0.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-duo/duo-buildroot-sdk-v2/releases/download/v2.0.0/milkv-duo-musl-riscv64-sd_v2.0.0.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 146
+            }
+          ]
+        },
+        {
+          "name": "milkv-duo-musl-riscv64-sd_v2.0.1.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-duo/duo-buildroot-sdk-v2/releases/download/v2.0.1/milkv-duo-musl-riscv64-sd_v2.0.1.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 142
+            }
+          ]
+        }
+      ]
+    },
+    "buildroot-sdk-milkv-duo-python": {
+      "distfiles": [
+        {
+          "name": "milkv-duo-v1.0.7-2023-1223.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-duo/duo-buildroot-sdk/releases/download/Duo-V1.0.7/milkv-duo-v1.0.7-2023-1223.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 141
+            }
+          ]
+        }
+      ]
+    },
+    "buildroot-sdk-milkv-duo256m": {
+      "distfiles": [
+        {
+          "name": "milkv-duo256m-python-v1.0.7-2023-1223.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-duo/duo-buildroot-sdk/releases/download/Duo-V1.0.7/milkv-duo256m-python-v1.0.7-2023-1223.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 142
+            }
+          ]
+        },
+        {
+          "name": "milkv-duo256m-v1.0.9-2024-0226.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-duo/duo-buildroot-sdk/releases/download/Duo-V1.0.9/milkv-duo256m-v1.0.9-2024-0226.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 140
+            }
+          ]
+        },
+        {
+          "name": "milkv-duo256m-v1.1.0-2024-0410.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-duo/duo-buildroot-sdk/releases/download/Duo-V1.1.0/milkv-duo256m-v1.1.0-2024-0410.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 544
+            }
+          ]
+        },
+        {
+          "name": "milkv-duo256m-v1.1.1-2024-0528.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-duo/duo-buildroot-sdk/releases/download/Duo-V1.1.1/milkv-duo256m-v1.1.1-2024-0528.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 142
+            }
+          ]
+        },
+        {
+          "name": "milkv-duo256m-sd-v1.1.2-2024-0801.ruyi1.img.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "ruyi-3rdparty-milkv",
+              "path": "repacks/milkv-duo256m-sd-v1.1.2-2024-0801.ruyi1.img.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/ruyisdk/3rdparty/milkv/repacks/milkv-duo256m-sd-v1.1.2-2024-0801.ruyi1.img.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 1034
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "milkv-duo256m-sd-v1.1.2-2024-0801.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-duo/duo-buildroot-sdk/releases/download/Duo-V1.1.2/milkv-duo256m-sd-v1.1.2-2024-0801.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 133
+            }
+          ]
+        },
+        {
+          "name": "milkv-duo256m-sd-v1.1.3-2024-0930.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-duo/duo-buildroot-sdk/releases/download/v1.1.3/milkv-duo256m-sd-v1.1.3-2024-0930.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 207
+            }
+          ]
+        },
+        {
+          "name": "milkv-duo256m-sd-v1.1.4.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-duo/duo-buildroot-sdk/releases/download/v1.1.4/milkv-duo256m-sd-v1.1.4.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 149
+            }
+          ]
+        },
+        {
+          "name": "milkv-duo256m-musl-riscv64-sd_v2.0.0.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-duo/duo-buildroot-sdk-v2/releases/download/v2.0.0/milkv-duo256m-musl-riscv64-sd_v2.0.0.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 221
+            }
+          ]
+        },
+        {
+          "name": "milkv-duo256m-musl-riscv64-sd_v2.0.1.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-duo/duo-buildroot-sdk-v2/releases/download/v2.0.1/milkv-duo256m-musl-riscv64-sd_v2.0.1.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 154
+            }
+          ]
+        }
+      ]
+    },
+    "buildroot-sdk-milkv-duo256m-python": {
+      "distfiles": [
+        {
+          "name": "milkv-duo256m-v1.0.7-2023-1223.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-duo/duo-buildroot-sdk/releases/download/Duo-V1.0.7/milkv-duo256m-v1.0.7-2023-1223.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 132
+            }
+          ]
+        }
+      ]
+    },
+    "buildroot-sdk-milkv-duos-sd": {
+      "distfiles": [
+        {
+          "name": "milkv-duos-sd-v1.0.9-2024-0226.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-duo/duo-buildroot-sdk/releases/download/Duo-V1.0.9/milkv-duos-sd-v1.0.9-2024-0226.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 157
+            }
+          ]
+        },
+        {
+          "name": "milkv-duos-sd-v1.1.0-2024-0410.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-duo/duo-buildroot-sdk/releases/download/Duo-V1.1.0/milkv-duos-sd-v1.1.0-2024-0410.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 126
+            }
+          ]
+        },
+        {
+          "name": "milkv-duos-sd-v1.1.1-2024-0528.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-duo/duo-buildroot-sdk/releases/download/Duo-V1.1.1/milkv-duos-sd-v1.1.1-2024-0528.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 143
+            }
+          ]
+        },
+        {
+          "name": "milkv-duos-sd-v1.1.2-2024-0801.ruyi1.img.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "ruyi-3rdparty-milkv",
+              "path": "repacks/milkv-duos-sd-v1.1.2-2024-0801.ruyi1.img.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/ruyisdk/3rdparty/milkv/repacks/milkv-duos-sd-v1.1.2-2024-0801.ruyi1.img.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 1132
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "milkv-duos-sd-v1.1.2-2024-0801.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-duo/duo-buildroot-sdk/releases/download/Duo-V1.1.2/milkv-duos-sd-v1.1.2-2024-0801.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 135
+            }
+          ]
+        },
+        {
+          "name": "milkv-duos-sd-v1.1.3-2024-0930.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-duo/duo-buildroot-sdk/releases/download/v1.1.3/milkv-duos-sd-v1.1.3-2024-0930.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 120
+            }
+          ]
+        },
+        {
+          "name": "milkv-duos-sd-v1.1.4.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-duo/duo-buildroot-sdk/releases/download/v1.1.4/milkv-duos-sd-v1.1.4.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 130
+            }
+          ]
+        },
+        {
+          "name": "milkv-duos-musl-riscv64-sd_v2.0.0.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-duo/duo-buildroot-sdk-v2/releases/download/v2.0.0/milkv-duos-musl-riscv64-sd_v2.0.0.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 138
+            }
+          ]
+        },
+        {
+          "name": "milkv-duos-musl-riscv64-sd_v2.0.1.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-duo/duo-buildroot-sdk-v2/releases/download/v2.0.1/milkv-duos-musl-riscv64-sd_v2.0.1.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 199
+            }
+          ]
+        }
+      ]
+    },
+    "buildroot-sdk-sipeed-licheervnano": {
+      "distfiles": [
+        {
+          "name": "c906-2024-04-22-11-32-d18e19.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/sipeed/LicheeRV-Nano-Build/releases/download/20240422/c906-2024-04-22-11-32-d18e19.img.xz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 163
+            }
+          ]
+        },
+        {
+          "name": "c906-2024-05-10-14-12-b9dd20.img.gz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/sipeed/LicheeRV-Nano-Build/releases/download/20240510/c906-2024-05-10-14-12-b9dd20.img.gz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 135
+            }
+          ]
+        },
+        {
+          "name": "2024-05-13-18-10-f3ea49.img.gz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/sipeed/LicheeRV-Nano-Build/releases/download/20240513/2024-05-13-18-10-f3ea49.img.gz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 137
+            }
+          ]
+        },
+        {
+          "name": "2024-05-14-10-00-646bd6.img.gz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/sipeed/LicheeRV-Nano-Build/releases/download/20240514/2024-05-14-10-00-646bd6.img.gz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 141
+            }
+          ]
+        },
+        {
+          "name": "2024-05-15-16-57-9af3db.img.gz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/sipeed/LicheeRV-Nano-Build/releases/download/20240515/2024-05-15-16-57-9af3db.img.gz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 126
+            }
+          ]
+        },
+        {
+          "name": "2024-05-28-17-33-82a0b7.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/sipeed/LicheeRV-Nano-Build/releases/download/20240528/2024-05-28-17-33-82a0b7.img.xz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 133
+            }
+          ]
+        },
+        {
+          "name": "2024-07-09-18-17-245934.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/sipeed/LicheeRV-Nano-Build/releases/download/20240709/2024-07-09-18-17-245934.img.xz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 171
+            }
+          ]
+        },
+        {
+          "name": "2024-07-26-18-41-fc2bb1.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/sipeed/LicheeRV-Nano-Build/releases/download/20240726/2024-07-26-18-41-fc2bb1.img.xz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 160
+            }
+          ]
+        },
+        {
+          "name": "2024-08-07-16-56-b0a69a.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/sipeed/LicheeRV-Nano-Build/releases/download/20240807/2024-08-07-16-56-b0a69a.img.xz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 146
+            }
+          ]
+        },
+        {
+          "name": "2024-08-13-14-43-0de38f.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/sipeed/LicheeRV-Nano-Build/releases/download/20240813/2024-08-13-14-43-0de38f.img.xz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 130
+            }
+          ]
+        },
+        {
+          "name": "2024-08-16-10-32-713161.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/sipeed/LicheeRV-Nano-Build/releases/download/20240816/2024-08-16-10-32-713161.img.xz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 127
+            }
+          ]
+        },
+        {
+          "name": "2024-09-05-16-34-752683.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/sipeed/LicheeRV-Nano-Build/releases/download/20240905/2024-09-05-16-34-752683.img.xz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 135
+            }
+          ]
+        },
+        {
+          "name": "2024-09-26-19-07-632a76.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/sipeed/LicheeRV-Nano-Build/releases/download/20240926/2024-09-26-19-07-632a76.img.xz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 168
+            }
+          ]
+        },
+        {
+          "name": "2024-10-17-14-21-e01183.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/sipeed/LicheeRV-Nano-Build/releases/download/20241017/2024-10-17-14-21-e01183.img.xz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 154
+            }
+          ]
+        },
+        {
+          "name": "2024-10-21-15-39-1dd70f.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/sipeed/LicheeRV-Nano-Build/releases/download/20241021/2024-10-21-15-39-1dd70f.img.xz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 125
+            }
+          ]
+        },
+        {
+          "name": "2024-11-29-11-46-540e94.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/sipeed/LicheeRV-Nano-Build/releases/download/20241129/2024-11-29-11-46-540e94.img.xz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 150
+            }
+          ]
+        },
+        {
+          "name": "2024-12-20-17-31-1fcc2f.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/sipeed/LicheeRV-Nano-Build/releases/download/20241220/2024-12-20-17-31-1fcc2f.img.xz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 169
+            }
+          ]
+        },
+        {
+          "name": "2025-01-11-15-41-48724b.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/sipeed/LicheeRV-Nano-Build/releases/download/20250111/2025-01-11-15-41-48724b.img.xz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 119
+            }
+          ]
+        },
+        {
+          "name": "2025-01-14-11-09-741697.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/sipeed/LicheeRV-Nano-Build/releases/download/20250114/2025-01-14-11-09-741697.img.xz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 123
+            }
+          ]
+        },
+        {
+          "name": "2025-03-19-15-13-e4e133.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/sipeed/LicheeRV-Nano-Build/releases/download/20250319/2025-03-19-15-13-e4e133.img.xz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 125
+            }
+          ]
+        },
+        {
+          "name": "2025-04-17-20-04-a3ccb5.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/sipeed/LicheeRV-Nano-Build/releases/download/20250417/2025-04-17-20-04-a3ccb5.img.xz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 134
+            }
+          ]
+        },
+        {
+          "name": "2025-07-29-18-59-21ffda.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/sipeed/LicheeRV-Nano-Build/releases/download/20250729/2025-07-29-18-59-21ffda.img.xz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 124
+            }
+          ]
+        },
+        {
+          "name": "2025-07-30-13-43-6aedfa.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/sipeed/LicheeRV-Nano-Build/releases/download/20250730/2025-07-30-13-43-6aedfa.img.xz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 154
+            }
+          ]
+        },
+        {
+          "name": "2025-08-04-20-43-891bfb.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/sipeed/LicheeRV-Nano-Build/releases/download/20250804/2025-08-04-20-43-891bfb.img.xz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 198
+            }
+          ]
+        },
+        {
+          "name": "2025-12-02-16-54-27b96a.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/sipeed/LicheeRV-Nano-Build/releases/download/20251202/2025-12-02-16-54-27b96a.img.xz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 144
+            }
+          ]
+        },
+        {
+          "name": "2025-12-30-20-00-6073d5.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/sipeed/LicheeRV-Nano-Build/releases/download/20251230/2025-12-30-20-00-6073d5.img.xz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 135
+            }
+          ]
+        },
+        {
+          "name": "2026-01-14-16-03-d4003f.tar.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/sipeed/LicheeRV-Nano-Build/releases/download/20260114/2026-01-14-16-03-d4003f.tar.xz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 187
+            }
+          ]
+        }
+      ]
+    },
+    "canmv-debian-sdk-canaan-k230": {
+      "distfiles": [
+        {
+          "name": "canmv_debian_sdcard_sdk_1.3.img.gz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://kendryte-download.canaan-creative.com/developer/k230/canmv_debian_sdcard_sdk_1.3.img.gz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 3830
+            }
+          ]
+        }
+      ]
+    },
+    "canmv-linux-sdk-demo-canaan-k230d-rv64ilp32": {
+      "distfiles": [
+        {
+          "name": "kendryte-k230d-linux-sdk-demo.rv64ilp32.20240717.ext4.img.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "ruyi-3rdparty-canaan",
+              "path": "temp/kendryte-k230d-linux-sdk-demo.rv64ilp32.20240717.ext4.img.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/ruyisdk/3rdparty/canaan/temp/kendryte-k230d-linux-sdk-demo.rv64ilp32.20240717.ext4.img.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 869
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "kendryte-k230d-linux-sdk-demo.rv64ilp32.20240731.ext4.img.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "ruyi-3rdparty-canaan",
+              "path": "temp/kendryte-k230d-linux-sdk-demo.rv64ilp32.20240731.ext4.img.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/ruyisdk/3rdparty/canaan/temp/kendryte-k230d-linux-sdk-demo.rv64ilp32.20240731.ext4.img.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 1026
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "canmv-linux-sdk-demo-canaan-k230d-rv64lp64": {
+      "distfiles": [
+        {
+          "name": "kendryte-k230d-linux-sdk-demo.lp64.20240717.ext4.img.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "ruyi-3rdparty-canaan",
+              "path": "temp/kendryte-k230d-linux-sdk-demo.lp64.20240717.ext4.img.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/ruyisdk/3rdparty/canaan/temp/kendryte-k230d-linux-sdk-demo.lp64.20240717.ext4.img.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 1069
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "kendryte-k230d-linux-sdk-demo.rv64lp64.20240731.ext4.img.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "ruyi-3rdparty-canaan",
+              "path": "temp/kendryte-k230d-linux-sdk-demo.rv64lp64.20240731.ext4.img.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/ruyisdk/3rdparty/canaan/temp/kendryte-k230d-linux-sdk-demo.rv64lp64.20240731.ext4.img.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 1015
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "canmv-ubuntu-sdk-canaan-k230": {
+      "distfiles": [
+        {
+          "name": "canmv_ubuntu_sdcard_1.3.img.gz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://kendryte-download.canaan-creative.com/developer/k230/canmv_ubuntu_sdcard_1.3.img.gz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 2320
+            }
+          ]
+        }
+      ]
+    },
+    "debian-desktop-sdk-milkv-mars-cm-sd": {
+      "distfiles": [
+        {
+          "name": "mars-cm_debian-desktop_sdk-v3.6.1_cm4-io-board_sdcard_v1.0.5.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-mars/mars-buildroot-sdk/releases/download/V1.0.5/mars-cm_debian-desktop_sdk-v3.6.1_cm4-io-board_sdcard_v1.0.5.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 138
+            }
+          ]
+        },
+        {
+          "name": "mars-cm_debian-desktop_sdk-v3.6.1_cm4-io-board_sdcard_v1.0.6.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-mars/mars-buildroot-sdk/releases/download/V1.0.6/mars-cm_debian-desktop_sdk-v3.6.1_cm4-io-board_sdcard_v1.0.6.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 145
+            }
+          ]
+        }
+      ]
+    },
+    "debian-desktop-sdk-milkv-mars-sd": {
+      "distfiles": [
+        {
+          "name": "mars_debian-desktop_sdk-v3.6.1_sdcard_v1.0.6.img.zip",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-mars/mars-buildroot-sdk/releases/download/V1.0.6/mars_debian-desktop_sdk-v3.6.1_sdcard_v1.0.6.img.zip",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 124
+            }
+          ]
+        }
+      ]
+    },
+    "debian-fishwaldo-sg200x-sipeed-licheervnano": {
+      "distfiles": [
+        {
+          "name": "licheervnano_sd.img.lz4",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/Fishwaldo/sophgo-sg200x-debian/releases/download/v1.0.0/licheervnano_sd.img.lz4",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 194
+            }
+          ]
+        },
+        {
+          "name": "licheervnano_sd.img.lz4",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/Fishwaldo/sophgo-sg200x-debian/releases/download/v1.2.0/licheervnano_sd.img.lz4",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 154
+            }
+          ]
+        },
+        {
+          "name": "licheervnano_sd.img.lz4",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/Fishwaldo/sophgo-sg200x-debian/releases/download/v1.3.0/licheervnano_sd.img.lz4",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 134
+            }
+          ]
+        },
+        {
+          "name": "licheervnano_sd.img.lz4",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/Fishwaldo/sophgo-sg200x-debian/releases/download/v1.4.0/licheervnano_sd.img.lz4",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 145
+            }
+          ]
+        }
+      ]
+    },
+    "freebsd-riscv64-mini-live": {
+      "distfiles": [
+        {
+          "name": "FreeBSD-14.3-RELEASE-riscv-riscv64-mini-memstick.img",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "freebsd-releases",
+              "path": "riscv/riscv64/ISO-IMAGES/14.3/FreeBSD-14.3-RELEASE-riscv-riscv64-mini-memstick.img",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/FreeBSD/releases/riscv/riscv64/ISO-IMAGES/14.3/FreeBSD-14.3-RELEASE-riscv-riscv64-mini-memstick.img",
+                  "available": false,
+                  "status_code": 404,
+                  "error": null,
+                  "latency_ms": 1063
+                },
+                {
+                  "url": "https://download.freebsd.org/releases/riscv/riscv64/ISO-IMAGES/14.3/FreeBSD-14.3-RELEASE-riscv-riscv64-mini-memstick.img",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 193
+                },
+                {
+                  "url": "https://archive.freebsd.org/old-releases/riscv/riscv64/ISO-IMAGES/14.3/FreeBSD-14.3-RELEASE-riscv-riscv64-mini-memstick.img",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 165
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FreeBSD-14.4-RELEASE-riscv-riscv64-mini-memstick.img",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "freebsd-releases",
+              "path": "riscv/riscv64/ISO-IMAGES/14.4/FreeBSD-14.4-RELEASE-riscv-riscv64-mini-memstick.img",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/FreeBSD/releases/riscv/riscv64/ISO-IMAGES/14.4/FreeBSD-14.4-RELEASE-riscv-riscv64-mini-memstick.img",
+                  "available": false,
+                  "status_code": 404,
+                  "error": null,
+                  "latency_ms": 1302
+                },
+                {
+                  "url": "https://download.freebsd.org/releases/riscv/riscv64/ISO-IMAGES/14.4/FreeBSD-14.4-RELEASE-riscv-riscv64-mini-memstick.img",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 47
+                },
+                {
+                  "url": "https://archive.freebsd.org/old-releases/riscv/riscv64/ISO-IMAGES/14.4/FreeBSD-14.4-RELEASE-riscv-riscv64-mini-memstick.img",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 47
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FreeBSD-15.0-RELEASE-riscv-riscv64-mini-memstick.img",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "freebsd-releases",
+              "path": "riscv/riscv64/ISO-IMAGES/15.0/FreeBSD-15.0-RELEASE-riscv-riscv64-mini-memstick.img",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/FreeBSD/releases/riscv/riscv64/ISO-IMAGES/15.0/FreeBSD-15.0-RELEASE-riscv-riscv64-mini-memstick.img",
+                  "available": false,
+                  "status_code": 404,
+                  "error": null,
+                  "latency_ms": 1648
+                },
+                {
+                  "url": "https://download.freebsd.org/releases/riscv/riscv64/ISO-IMAGES/15.0/FreeBSD-15.0-RELEASE-riscv-riscv64-mini-memstick.img",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 48
+                },
+                {
+                  "url": "https://archive.freebsd.org/old-releases/riscv/riscv64/ISO-IMAGES/15.0/FreeBSD-15.0-RELEASE-riscv-riscv64-mini-memstick.img",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 49
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FreeBSD-15.1-RELEASE-riscv-riscv64-mini-memstick.img",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "freebsd-releases",
+              "path": "riscv/riscv64/ISO-IMAGES/15.1/FreeBSD-15.1-RELEASE-riscv-riscv64-mini-memstick.img",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/FreeBSD/releases/riscv/riscv64/ISO-IMAGES/15.1/FreeBSD-15.1-RELEASE-riscv-riscv64-mini-memstick.img",
+                  "available": false,
+                  "status_code": 404,
+                  "error": null,
+                  "latency_ms": 1270
+                },
+                {
+                  "url": "https://download.freebsd.org/releases/riscv/riscv64/ISO-IMAGES/15.1/FreeBSD-15.1-RELEASE-riscv-riscv64-mini-memstick.img",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 49
+                },
+                {
+                  "url": "https://archive.freebsd.org/old-releases/riscv/riscv64/ISO-IMAGES/15.1/FreeBSD-15.1-RELEASE-riscv-riscv64-mini-memstick.img",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 51
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "oerv-awol-d1-base": {
+      "distfiles": [
+        {
+          "name": "openEuler-23.03-V1-base-d1-preview.img.zst",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://mirror.iscas.ac.cn/openeuler-sig-riscv/openEuler-RISC-V/preview/openEuler-23.03-V1-riscv64/D1/openEuler-23.03-V1-base-d1-preview.img.zst",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 866
+            }
+          ]
+        }
+      ]
+    },
+    "oerv-awol-d1-xfce": {
+      "distfiles": [
+        {
+          "name": "openEuler-23.03-V1-xfce-d1-preview.img.zst",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://mirror.iscas.ac.cn/openeuler-sig-riscv/openEuler-RISC-V/preview/openEuler-23.03-V1-riscv64/D1/openEuler-23.03-V1-xfce-d1-preview.img.zst",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 961
+            }
+          ]
+        }
+      ]
+    },
+    "oerv-sg2042-milkv-pioneer-base": {
+      "distfiles": [
+        {
+          "name": "openEuler-23.09-V1-base-sg2042-preview-refreshed.img.zst",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://mirror.iscas.ac.cn/openeuler-sig-riscv/openEuler-RISC-V/preview/openEuler-23.09-V1-riscv64/SG2042/openEuler-23.09-V1-base-sg2042-preview-refreshed.img.zst",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 809
+            }
+          ]
+        }
+      ]
+    },
+    "oerv-sg2042-milkv-pioneer-xfce": {
+      "distfiles": [
+        {
+          "name": "openEuler-23.09-V1-xfce-sg2042-preview-refreshed.img.zst",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://mirror.iscas.ac.cn/openeuler-sig-riscv/openEuler-RISC-V/preview/openEuler-23.09-V1-riscv64/SG2042/openEuler-23.09-V1-xfce-sg2042-preview-refreshed.img.zst",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 829
+            }
+          ]
+        }
+      ]
+    },
+    "oerv-sifive-unmatched-base": {
+      "distfiles": [
+        {
+          "name": "openEuler-23.09-V1-base-unmatched-preview.img.zst",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://mirror.iscas.ac.cn/openeuler-sig-riscv/openEuler-RISC-V/preview/openEuler-23.09-V1-riscv64/Unmatched/openEuler-23.09-V1-base-unmatched-preview.img.zst",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 1032
+            }
+          ]
+        }
+      ]
+    },
+    "oerv-sifive-unmatched-xfce": {
+      "distfiles": [
+        {
+          "name": "openEuler-23.09-V1-xfce-unmatched-preview.img.zst",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://mirror.iscas.ac.cn/openeuler-sig-riscv/openEuler-RISC-V/preview/openEuler-23.09-V1-riscv64/Unmatched/openEuler-23.09-V1-xfce-unmatched-preview.img.zst",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 865
+            }
+          ]
+        }
+      ]
+    },
+    "oerv-sipeed-lpi4a-headless": {
+      "distfiles": [
+        {
+          "name": "boot-20231130-224203.ext4.zst",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://mirror.iscas.ac.cn/openeuler-sig-riscv/openEuler-RISC-V/preview/openEuler-23.09-V1-riscv64/lpi4a/boot-20231130-224203.ext4.zst",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 1117
+            }
+          ]
+        },
+        {
+          "name": "root-20231130-224203.ext4.zst",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://mirror.iscas.ac.cn/openeuler-sig-riscv/openEuler-RISC-V/preview/openEuler-23.09-V1-riscv64/lpi4a/root-20231130-224203.ext4.zst",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 830
+            }
+          ]
+        }
+      ]
+    },
+    "oerv-sipeed-lpi4a-xfce": {
+      "distfiles": [
+        {
+          "name": "boot-20231130-224942.ext4.zst",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://mirror.iscas.ac.cn/openeuler-sig-riscv/openEuler-RISC-V/preview/openEuler-23.09-V1-riscv64/lpi4a/boot-20231130-224942.ext4.zst",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 957
+            }
+          ]
+        },
+        {
+          "name": "root-20231130-224942.ext4.zst",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://mirror.iscas.ac.cn/openeuler-sig-riscv/openEuler-RISC-V/preview/openEuler-23.09-V1-riscv64/lpi4a/root-20231130-224942.ext4.zst",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 880
+            }
+          ]
+        }
+      ]
+    },
+    "oerv-starfive-visionfive-base": {
+      "distfiles": [
+        {
+          "name": "openEuler-23.09-V1-base-visionfive-preview.img.zst",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://mirror.iscas.ac.cn/openeuler-sig-riscv/openEuler-RISC-V/preview/openEuler-23.09-V1-riscv64/Visionfive/openEuler-23.09-V1-base-visionfive-preview.img.zst",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 790
+            }
+          ]
+        }
+      ]
+    },
+    "oerv-starfive-visionfive-xfce": {
+      "distfiles": [
+        {
+          "name": "openEuler-23.09-V1-xfce-visionfive-preview.img.zst",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://mirror.iscas.ac.cn/openeuler-sig-riscv/openEuler-RISC-V/preview/openEuler-23.09-V1-riscv64/Visionfive/openEuler-23.09-V1-xfce-visionfive-preview.img.zst",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 1075
+            }
+          ]
+        }
+      ]
+    },
+    "oerv-starfive-visionfive2-base": {
+      "distfiles": [
+        {
+          "name": "openEuler-23.09-V1-base-visionfive2-preview.img.zst",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://mirror.iscas.ac.cn/openeuler-sig-riscv/openEuler-RISC-V/preview/openEuler-23.09-V1-riscv64/Visionfive2/openEuler-23.09-V1-base-visionfive2-preview.img.zst",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 870
+            }
+          ]
+        }
+      ]
+    },
+    "oerv-starfive-visionfive2-xfce": {
+      "distfiles": [
+        {
+          "name": "openEuler-23.09-V1-xfce-visionfive2-preview.img.zst",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://mirror.iscas.ac.cn/openeuler-sig-riscv/openEuler-RISC-V/preview/openEuler-23.09-V1-riscv64/Visionfive2/openEuler-23.09-V1-xfce-visionfive2-preview.img.zst",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 946
+            }
+          ]
+        }
+      ]
+    },
+    "openbsd-riscv64-live": {
+      "distfiles": [
+        {
+          "name": "install76.img",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "openbsd",
+              "path": "7.6/riscv64/install76.img",
+              "available": false,
+              "entries": [
+                {
+                  "url": "https://mirrors.tuna.tsinghua.edu.cn/OpenBSD/7.6/riscv64/install76.img",
+                  "available": false,
+                  "status_code": 404,
+                  "error": null,
+                  "latency_ms": 2853
+                },
+                {
+                  "url": "https://cdn.openbsd.org/pub/OpenBSD/7.6/riscv64/install76.img",
+                  "available": false,
+                  "status_code": 404,
+                  "error": null,
+                  "latency_ms": 424
+                },
+                {
+                  "url": "https://ftp.openbsd.org/pub/OpenBSD/7.6/riscv64/install76.img",
+                  "available": false,
+                  "status_code": 404,
+                  "error": null,
+                  "latency_ms": 655
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "install77.img",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "openbsd",
+              "path": "7.7/riscv64/install77.img",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirrors.tuna.tsinghua.edu.cn/OpenBSD/7.7/riscv64/install77.img",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 844
+                },
+                {
+                  "url": "https://cdn.openbsd.org/pub/OpenBSD/7.7/riscv64/install77.img",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 589
+                },
+                {
+                  "url": "https://ftp.openbsd.org/pub/OpenBSD/7.7/riscv64/install77.img",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 311
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "install78.img",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "openbsd",
+              "path": "7.8/riscv64/install78.img",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirrors.tuna.tsinghua.edu.cn/OpenBSD/7.8/riscv64/install78.img",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 856
+                },
+                {
+                  "url": "https://cdn.openbsd.org/pub/OpenBSD/7.8/riscv64/install78.img",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 302
+                },
+                {
+                  "url": "https://ftp.openbsd.org/pub/OpenBSD/7.8/riscv64/install78.img",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 300
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "install79.img",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "openbsd",
+              "path": "7.9/riscv64/install79.img",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirrors.tuna.tsinghua.edu.cn/OpenBSD/7.9/riscv64/install79.img",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 853
+                },
+                {
+                  "url": "https://cdn.openbsd.org/pub/OpenBSD/7.9/riscv64/install79.img",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 329
+                },
+                {
+                  "url": "https://ftp.openbsd.org/pub/OpenBSD/7.9/riscv64/install79.img",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 290
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "openkylin-riscv64-sifive-unmatched": {
+      "distfiles": [
+        {
+          "name": "openKylin-1.0-hifive-unmatched-riscv64.img.xz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://mirror.sjtu.edu.cn/openkylin-cdimage/1.0/openKylin-1.0-hifive-unmatched-riscv64.img.xz",
+              "available": false,
+              "status_code": 404,
+              "error": null,
+              "latency_ms": 2009
+            },
+            {
+              "type": "normal",
+              "url": "https://releases.openkylin.top/1.0/openKylin-1.0-hifive-unmatched-riscv64.img.xz",
+              "available": false,
+              "status_code": 404,
+              "error": null,
+              "latency_ms": 3516
+            }
+          ]
+        }
+      ]
+    },
+    "openwrt-sifive-unmatched": {
+      "distfiles": [
+        {
+          "name": "openwrt-23.05.2-sifiveu-generic-sifive_unmatched-ext4-sdcard.img.gz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://mirrors.tuna.tsinghua.edu.cn/openwrt/releases/23.05.2/targets/sifiveu/generic/openwrt-23.05.2-sifiveu-generic-sifive_unmatched-ext4-sdcard.img.gz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 870
+            },
+            {
+              "type": "normal",
+              "url": "https://downloads.openwrt.org/releases/23.05.2/targets/sifiveu/generic/openwrt-23.05.2-sifiveu-generic-sifive_unmatched-ext4-sdcard.img.gz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 652
+            }
+          ]
+        },
+        {
+          "name": "openwrt-24.10.2-sifiveu-generic-sifive_unmatched-ext4-sdcard.img.gz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://mirrors.tuna.tsinghua.edu.cn/openwrt/releases/24.10.2/targets/sifiveu/generic/openwrt-24.10.2-sifiveu-generic-sifive_unmatched-ext4-sdcard.img.gz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 854
+            },
+            {
+              "type": "normal",
+              "url": "https://downloads.openwrt.org/releases/24.10.2/targets/sifiveu/generic/openwrt-24.10.2-sifiveu-generic-sifive_unmatched-ext4-sdcard.img.gz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 227
+            }
+          ]
+        },
+        {
+          "name": "openwrt-24.10.3-sifiveu-generic-sifive_unmatched-ext4-sdcard.img.gz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://mirrors.tuna.tsinghua.edu.cn/openwrt/releases/24.10.3/targets/sifiveu/generic/openwrt-24.10.3-sifiveu-generic-sifive_unmatched-ext4-sdcard.img.gz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 856
+            },
+            {
+              "type": "normal",
+              "url": "https://downloads.openwrt.org/releases/24.10.3/targets/sifiveu/generic/openwrt-24.10.3-sifiveu-generic-sifive_unmatched-ext4-sdcard.img.gz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 166
+            }
+          ]
+        },
+        {
+          "name": "openwrt-24.10.4-sifiveu-generic-sifive_unmatched-ext4-sdcard.img.gz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://mirrors.tuna.tsinghua.edu.cn/openwrt/releases/24.10.4/targets/sifiveu/generic/openwrt-24.10.4-sifiveu-generic-sifive_unmatched-ext4-sdcard.img.gz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 854
+            },
+            {
+              "type": "normal",
+              "url": "https://downloads.openwrt.org/releases/24.10.4/targets/sifiveu/generic/openwrt-24.10.4-sifiveu-generic-sifive_unmatched-ext4-sdcard.img.gz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 454
+            }
+          ]
+        }
+      ]
+    },
+    "redleafos-xiangshan-nanhu": {
+      "distfiles": [
+        {
+          "name": "debian-nanhu-20250113-113430.img.zst",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://mirror.iscas.ac.cn/redleafos/extra/images/20250113/debian-nanhu-20250113-113430.img.zst",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 870
+            }
+          ]
+        },
+        {
+          "name": "debian-nanhuv2-20250922-155014.img.zst",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://mirror.iscas.ac.cn/redleafos/extra/images/20250922/debian-nanhuv2-20250922-155014.img.zst",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 953
+            }
+          ]
+        },
+        {
+          "name": "debian-nanhuv2-20250927-224931.img.zst",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://mirror.iscas.ac.cn/redleafos/extra/images/20250927/debian-nanhuv2-20250927-224931.img.zst",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 891
+            }
+          ]
+        }
+      ]
+    },
+    "revyos-milkv-meles": {
+      "distfiles": [
+        {
+          "name": "boot-milkv-meles-1.0.0.ext4",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-meles/meles-images/releases/download/v1.0.0/boot.ext4",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 145
+            }
+          ]
+        },
+        {
+          "name": "root-meles-20231210_134926.ext4.tar.gz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-meles/meles-images/releases/download/v1.0.0/root-meles-20231210_134926.ext4.tar.gz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 134
+            }
+          ]
+        },
+        {
+          "name": "boot-meles-20240720_171949.ext4.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/meles/20240720/boot-meles-20240720_171949.ext4.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/meles/20240720/boot-meles-20240720_171949.ext4.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 796
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "root-meles-20240720_171949.ext4.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/meles/20240720/root-meles-20240720_171949.ext4.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/meles/20240720/root-meles-20240720_171949.ext4.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 1045
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "boot-meles-20250728_180948.ext4.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/meles/20250729/boot-meles-20250728_180948.ext4.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/meles/20250729/boot-meles-20250728_180948.ext4.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 877
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "root-meles-20250728_180948.ext4.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/meles/20250729/root-meles-20250728_180948.ext4.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/meles/20250729/root-meles-20250728_180948.ext4.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 890
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "boot-meles-20251225_175245.ext4.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/meles/20251226/boot-meles-20251225_175245.ext4.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/meles/20251226/boot-meles-20251225_175245.ext4.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 796
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "root-meles-20251225_175245.ext4.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/meles/20251226/root-meles-20251225_175245.ext4.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/meles/20251226/root-meles-20251225_175245.ext4.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 871
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "revyos-milkv-pioneer": {
+      "distfiles": [
+        {
+          "name": "revyos-pioneer-20251226-002451.img.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/sg2042/20251226/revyos-pioneer-20251226-002451.img.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/sg2042/20251226/revyos-pioneer-20251226-002451.img.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 868
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "revyos-sipeed-laptop4a": {
+      "distfiles": [
+        {
+          "name": "boot-laptop-20240720_171948.ext4.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/laptop4a/20240720/boot-laptop-20240720_171948.ext4.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/laptop4a/20240720/boot-laptop-20240720_171948.ext4.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 870
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "root-laptop-20240720_171948.ext4.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/laptop4a/20240720/root-laptop-20240720_171948.ext4.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/laptop4a/20240720/root-laptop-20240720_171948.ext4.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 809
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "boot-laptop-20251225_175320.ext4.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/laptop4a/20251226/boot-laptop-20251225_175320.ext4.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/laptop4a/20251226/boot-laptop-20251225_175320.ext4.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 834
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "root-laptop-20251225_175320.ext4.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/laptop4a/20251226/root-laptop-20251225_175320.ext4.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/laptop4a/20251226/root-laptop-20251225_175320.ext4.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 850
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "boot-laptop-20260504_080647.ext4.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/laptop4a/20260504/boot-laptop-20260504_080647.ext4.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/laptop4a/20260504/boot-laptop-20260504_080647.ext4.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 888
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "root-laptop-20260504_080647.ext4.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/laptop4a/20260504/root-laptop-20260504_080647.ext4.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/laptop4a/20260504/root-laptop-20260504_080647.ext4.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 801
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "revyos-sipeed-lc4a": {
+      "distfiles": [
+        {
+          "name": "boot-lpi4amain-20240127_105111.ext4.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lpi4amain/20240127/boot-lpi4amain-20240127_105111.ext4.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lpi4amain/20240127/boot-lpi4amain-20240127_105111.ext4.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 972
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "root-lpi4amain-20240127_105111.ext4.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lpi4amain/20240127/root-lpi4amain-20240127_105111.ext4.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lpi4amain/20240127/root-lpi4amain-20240127_105111.ext4.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 869
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "revyos-sipeed-lcon4a": {
+      "distfiles": [
+        {
+          "name": "boot-console-20240720_171948.ext4.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lcon4a/20240720/boot-console-20240720_171948.ext4.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lcon4a/20240720/boot-console-20240720_171948.ext4.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 873
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "root-console-20240720_171948.ext4.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lcon4a/20240720/root-console-20240720_171948.ext4.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lcon4a/20240720/root-console-20240720_171948.ext4.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 791
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "boot-console-20250728_180944.ext4.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lcon4a/20250729/boot-console-20250728_180944.ext4.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lcon4a/20250729/boot-console-20250728_180944.ext4.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 834
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "root-console-20250728_180944.ext4.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lcon4a/20250729/root-console-20250728_180944.ext4.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lcon4a/20250729/root-console-20250728_180944.ext4.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 850
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "boot-console-20251225_175318.ext4.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lcon4a/20251226/boot-console-20251225_175318.ext4.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lcon4a/20251226/boot-console-20251225_175318.ext4.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 892
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "root-console-20251225_175318.ext4.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lcon4a/20251226/root-console-20251225_175318.ext4.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lcon4a/20251226/root-console-20251225_175318.ext4.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 791
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "boot-console-20260504_080608.ext4.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lcon4a/20260504/boot-console-20260504_080608.ext4.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lcon4a/20260504/boot-console-20260504_080608.ext4.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 848
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "root-console-20260504_080608.ext4.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lcon4a/20260504/root-console-20260504_080608.ext4.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lcon4a/20260504/root-console-20260504_080608.ext4.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 875
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "revyos-sipeed-lpi4a": {
+      "distfiles": [
+        {
+          "name": "root-lpi4a-20240720_171951.ext4.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lpi4a/20240720/root-lpi4a-20240720_171951.ext4.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lpi4a/20240720/root-lpi4a-20240720_171951.ext4.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 861
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "boot-lpi4a-20240720_171951.ext4.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lpi4a/20240720/boot-lpi4a-20240720_171951.ext4.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lpi4a/20240720/boot-lpi4a-20240720_171951.ext4.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 881
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "boot-lpi4a-20250728_180938.ext4.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lpi4a/20250729/boot-lpi4a-20250728_180938.ext4.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lpi4a/20250729/boot-lpi4a-20250728_180938.ext4.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 877
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "root-lpi4a-20250728_180938.ext4.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lpi4a/20250729/root-lpi4a-20250728_180938.ext4.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lpi4a/20250729/root-lpi4a-20250728_180938.ext4.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 837
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "boot-lpi4a-20251225_175338.ext4.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lpi4a/20251226/boot-lpi4a-20251225_175338.ext4.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lpi4a/20251226/boot-lpi4a-20251225_175338.ext4.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 897
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "root-lpi4a-20251225_175338.ext4.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lpi4a/20251226/root-lpi4a-20251225_175338.ext4.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lpi4a/20251226/root-lpi4a-20251225_175338.ext4.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 786
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "boot-lpi4a-20260504_080619.ext4.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lpi4a/20260504/boot-lpi4a-20260504_080619.ext4.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lpi4a/20260504/boot-lpi4a-20260504_080619.ext4.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 939
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "root-lpi4a-20260504_080619.ext4.zst",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lpi4a/20260504/root-lpi4a-20260504_080619.ext4.zst",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lpi4a/20260504/root-lpi4a-20260504_080619.ext4.zst",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 867
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "rockos-milkv-megrez": {
+      "distfiles": [
+        {
+          "name": "sdcard-rockos-20250117-223529.img.zst",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://mirror.iscas.ac.cn/rockos/images/generic/20241230_20250117/sdcard-rockos-20250117-223529.img.zst",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 851
+            }
+          ]
+        },
+        {
+          "name": "sdcard-rockos-20250123-210346.img.zst",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://mirror.iscas.ac.cn/rockos/images/generic/20241230_20250124/sdcard-rockos-20250123-210346.img.zst",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 875
+            }
+          ]
+        },
+        {
+          "name": "sdcard-rockos-20250219-091803.img.zst",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://mirror.iscas.ac.cn/rockos/images/generic/20250130_20250219/sdcard-rockos-20250219-091803.img.zst",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 795
+            }
+          ]
+        },
+        {
+          "name": "sdcard-rockos-20250423-145338.img.zst",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://mirror.iscas.ac.cn/rockos/images/generic/20250330_20250423/sdcard-rockos-20250423-145338.img.zst",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 835
+            }
+          ]
+        },
+        {
+          "name": "sdcard-rockos-20250729-015830.img.zst",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://mirror.iscas.ac.cn/rockos/images/generic/20250530_20250729/sdcard-rockos-20250729-015830.img.zst",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 888
+            }
+          ]
+        },
+        {
+          "name": "sdcard-rockos-20250818-234921.img.zst",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://mirror.iscas.ac.cn/rockos/images/generic/20250630_20250818/sdcard-rockos-20250818-234921.img.zst",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 788
+            }
+          ]
+        }
+      ]
+    },
+    "uboot-oerv-sipeed-lpi4a-16g": {
+      "distfiles": [
+        {
+          "name": "u-boot-with-spl-lpi4a-16g.2309.v1.bin",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://mirror.iscas.ac.cn/openeuler-sig-riscv/openEuler-RISC-V/preview/openEuler-23.09-V1-riscv64/lpi4a/u-boot-with-spl-lpi4a-16g.bin",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 871
+            }
+          ]
+        }
+      ]
+    },
+    "uboot-oerv-sipeed-lpi4a-8g": {
+      "distfiles": [
+        {
+          "name": "u-boot-with-spl-lpi4a-8g.2309.v1.bin",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://mirror.iscas.ac.cn/openeuler-sig-riscv/openEuler-RISC-V/preview/openEuler-23.09-V1-riscv64/lpi4a/u-boot-with-spl-lpi4a.bin",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 868
+            }
+          ]
+        }
+      ]
+    },
+    "uboot-revyos-milkv-meles-16g": {
+      "distfiles": [
+        {
+          "name": "u-boot-with-spl-meles-16g-20240720.bin",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/meles/20240720/u-boot-with-spl-meles-16g.bin",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/meles/20240720/u-boot-with-spl-meles-16g.bin",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 874
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "u-boot-with-spl-meles-16g-20250729.bin",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/meles/20250729/u-boot-with-spl-meles-16g.bin",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/meles/20250729/u-boot-with-spl-meles-16g.bin",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 1016
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "u-boot-with-spl-meles-16g.bin",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/meles/20251226/u-boot-with-spl-meles-16g.bin",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/meles/20251226/u-boot-with-spl-meles-16g.bin",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 791
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "uboot-revyos-milkv-meles-4g": {
+      "distfiles": [
+        {
+          "name": "u-boot-with-spl-milkv-meles-singlerank-1.0.0.bin",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-meles/meles-images/releases/download/v1.0.0/u-boot-with-spl-singlerank.bin",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 192
+            }
+          ]
+        },
+        {
+          "name": "u-boot-with-spl-meles-4g-20240720.bin",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/meles/20240720/u-boot-with-spl-meles-4g.bin",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/meles/20240720/u-boot-with-spl-meles-4g.bin",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 839
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "u-boot-with-spl-meles-4g-20250729.bin",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/meles/20250729/u-boot-with-spl-meles-4g.bin",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/meles/20250729/u-boot-with-spl-meles-4g.bin",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 889
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "u-boot-with-spl-meles-4g.bin",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/meles/20251226/u-boot-with-spl-meles-4g.bin",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/meles/20251226/u-boot-with-spl-meles-4g.bin",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 846
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "uboot-revyos-milkv-meles-8g": {
+      "distfiles": [
+        {
+          "name": "u-boot-with-spl-milkv-meles-dualrank-1.0.0.bin",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://github.com/milkv-meles/meles-images/releases/download/v1.0.0/u-boot-with-spl-dualrank.bin",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 129
+            }
+          ]
+        },
+        {
+          "name": "u-boot-with-spl-meles-20240720.bin",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/meles/20240720/u-boot-with-spl-meles.bin",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/meles/20240720/u-boot-with-spl-meles.bin",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 871
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "u-boot-with-spl-meles-20250729.bin",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/meles/20250729/u-boot-with-spl-meles.bin",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/meles/20250729/u-boot-with-spl-meles.bin",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 868
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "u-boot-with-spl-meles.bin",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/meles/20251226/u-boot-with-spl-meles.bin",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/meles/20251226/u-boot-with-spl-meles.bin",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 850
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "uboot-revyos-sipeed-laptop4a-16g": {
+      "distfiles": [
+        {
+          "name": "u-boot-with-spl-laptop4a-16g.bin",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/laptop4a/20240720/u-boot-with-spl-laptop4a-16g.bin",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/laptop4a/20240720/u-boot-with-spl-laptop4a-16g.bin",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 870
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "u-boot-with-spl-laptop4a-16g.bin",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/laptop4a/20251226/u-boot-with-spl-laptop4a-16g.bin",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/laptop4a/20251226/u-boot-with-spl-laptop4a-16g.bin",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 1803
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "u-boot-with-spl-laptop4a-16g.bin",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/laptop4a/20260504/u-boot-with-spl-laptop4a-16g.bin",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/laptop4a/20260504/u-boot-with-spl-laptop4a-16g.bin",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 836
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "uboot-revyos-sipeed-laptop4a-8g": {
+      "distfiles": [
+        {
+          "name": "u-boot-with-spl-laptop4a.bin",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/laptop4a/20240720/u-boot-with-spl-laptop4a.bin",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/laptop4a/20240720/u-boot-with-spl-laptop4a.bin",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 888
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "u-boot-with-spl-laptop4a.bin",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/laptop4a/20251226/u-boot-with-spl-laptop4a.bin",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/laptop4a/20251226/u-boot-with-spl-laptop4a.bin",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 846
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "u-boot-with-spl-laptop4a.bin",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/laptop4a/20260504/u-boot-with-spl-laptop4a.bin",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/laptop4a/20260504/u-boot-with-spl-laptop4a.bin",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 866
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "uboot-revyos-sipeed-lc4a-16g": {
+      "distfiles": [
+        {
+          "name": "u-boot-with-spl-lc4a-16g-main.bin",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lpi4amain/20240127/u-boot-with-spl-lc4a-16g-main.bin",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lpi4amain/20240127/u-boot-with-spl-lc4a-16g-main.bin",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 851
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "uboot-revyos-sipeed-lc4a-8g": {
+      "distfiles": [
+        {
+          "name": "u-boot-with-spl-lc4a-main.bin",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lpi4amain/20240127/u-boot-with-spl-lc4a-main.bin",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lpi4amain/20240127/u-boot-with-spl-lc4a-main.bin",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 869
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "uboot-revyos-sipeed-lcon4a-16g": {
+      "distfiles": [
+        {
+          "name": "u-boot-with-spl-lcon4a-16g.bin",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lcon4a/20240720/u-boot-with-spl-lcon4a-16g.bin",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lcon4a/20240720/u-boot-with-spl-lcon4a-16g.bin",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 878
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "u-boot-with-spl-lcon4a-16g.bin",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lcon4a/20250729/u-boot-with-spl-lcon4a-16g.bin",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lcon4a/20250729/u-boot-with-spl-lcon4a-16g.bin",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 796
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "u-boot-with-spl-lcon4a-16g.bin",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lcon4a/20251226/u-boot-with-spl-lcon4a-16g.bin",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lcon4a/20251226/u-boot-with-spl-lcon4a-16g.bin",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 836
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "u-boot-with-spl-lcon4a-16g.bin",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lcon4a/20260504/u-boot-with-spl-lcon4a-16g.bin",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lcon4a/20260504/u-boot-with-spl-lcon4a-16g.bin",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 887
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "uboot-revyos-sipeed-lcon4a-8g": {
+      "distfiles": [
+        {
+          "name": "u-boot-with-spl-lcon4a.bin",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lcon4a/20240720/u-boot-with-spl-lcon4a.bin",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lcon4a/20240720/u-boot-with-spl-lcon4a.bin",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 1053
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "u-boot-with-spl-lcon4a.bin",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lcon4a/20250729/u-boot-with-spl-lcon4a.bin",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lcon4a/20250729/u-boot-with-spl-lcon4a.bin",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 869
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "u-boot-with-spl-lcon4a.bin",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lcon4a/20251226/u-boot-with-spl-lcon4a.bin",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lcon4a/20251226/u-boot-with-spl-lcon4a.bin",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 850
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "u-boot-with-spl-lcon4a.bin",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lcon4a/20260504/u-boot-with-spl-lcon4a.bin",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lcon4a/20260504/u-boot-with-spl-lcon4a.bin",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 869
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "uboot-revyos-sipeed-lpi4a-16g": {
+      "distfiles": [
+        {
+          "name": "u-boot-with-spl-lpi4a-16g.20240720.bin",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lpi4a/20240720/u-boot-with-spl-lpi4a-16g.bin",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lpi4a/20240720/u-boot-with-spl-lpi4a-16g.bin",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 874
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "u-boot-with-spl-lpi4a-16g-main.20250729.bin",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lpi4a/20250729/u-boot-with-spl-lpi4a-16g-main.bin",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lpi4a/20250729/u-boot-with-spl-lpi4a-16g-main.bin",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 789
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "u-boot-with-spl-lpi4a-16g.bin",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lpi4a/20251226/u-boot-with-spl-lpi4a-16g.bin",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lpi4a/20251226/u-boot-with-spl-lpi4a-16g.bin",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 838
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "u-boot-with-spl-lpi4a-16g.bin",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lpi4a/20260504/u-boot-with-spl-lpi4a-16g.bin",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lpi4a/20260504/u-boot-with-spl-lpi4a-16g.bin",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 889
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "uboot-revyos-sipeed-lpi4a-8g": {
+      "distfiles": [
+        {
+          "name": "u-boot-with-spl-lpi4a-8g.20240720.bin",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lpi4a/20240720/u-boot-with-spl-lpi4a.bin",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lpi4a/20240720/u-boot-with-spl-lpi4a.bin",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 856
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "u-boot-with-spl-lpi4a-main.20250729.bin",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lpi4a/20250729/u-boot-with-spl-lpi4a-main.bin",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lpi4a/20250729/u-boot-with-spl-lpi4a-main.bin",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 876
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "u-boot-with-spl-lpi4a.bin",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lpi4a/20251226/u-boot-with-spl-lpi4a.bin",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lpi4a/20251226/u-boot-with-spl-lpi4a.bin",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 849
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "u-boot-with-spl-lpi4a.bin",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "revyos",
+              "path": "extra/images/lpi4a/20260504/u-boot-with-spl-lpi4a.bin",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirror.iscas.ac.cn/revyos/extra/images/lpi4a/20260504/u-boot-with-spl-lpi4a.bin",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 869
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "ubuntu-server-riscv64-sifive-unmatched": {
+      "distfiles": [
+        {
+          "name": "ubuntu-22.04.5-preinstalled-server-riscv64+unmatched.img.xz",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "ubuntu-cdimage",
+              "path": "releases/22.04/release/ubuntu-22.04.5-preinstalled-server-riscv64+unmatched.img.xz",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirrors.tuna.tsinghua.edu.cn/ubuntu-cdimage/releases/22.04/release/ubuntu-22.04.5-preinstalled-server-riscv64+unmatched.img.xz",
+                  "available": false,
+                  "status_code": 404,
+                  "error": null,
+                  "latency_ms": 2782
+                },
+                {
+                  "url": "https://cdimage.ubuntu.com/releases/22.04/release/ubuntu-22.04.5-preinstalled-server-riscv64+unmatched.img.xz",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 160
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ubuntu-24.04.3-preinstalled-server-riscv64+unmatched.img.xz",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "ubuntu-cdimage",
+              "path": "releases/24.04/release/ubuntu-24.04.3-preinstalled-server-riscv64+unmatched.img.xz",
+              "available": true,
+              "entries": [
+                {
+                  "url": "https://mirrors.tuna.tsinghua.edu.cn/ubuntu-cdimage/releases/24.04/release/ubuntu-24.04.3-preinstalled-server-riscv64+unmatched.img.xz",
+                  "available": false,
+                  "status_code": 404,
+                  "error": null,
+                  "latency_ms": 1135
+                },
+                {
+                  "url": "https://cdimage.ubuntu.com/releases/24.04/release/ubuntu-24.04.3-preinstalled-server-riscv64+unmatched.img.xz",
+                  "available": true,
+                  "status_code": 200,
+                  "error": null,
+                  "latency_ms": 325
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ubuntu-25.04-preinstalled-server-riscv64+unmatched.img.xz",
+          "urls": [
+            {
+              "type": "mirror",
+              "mirror": "ubuntu-cdimage",
+              "path": "releases/25.04/release/ubuntu-25.04-preinstalled-server-riscv64+unmatched.img.xz",
+              "available": false,
+              "entries": [
+                {
+                  "url": "https://mirrors.tuna.tsinghua.edu.cn/ubuntu-cdimage/releases/25.04/release/ubuntu-25.04-preinstalled-server-riscv64+unmatched.img.xz",
+                  "available": false,
+                  "status_code": 404,
+                  "error": null,
+                  "latency_ms": 1128
+                },
+                {
+                  "url": "https://cdimage.ubuntu.com/releases/25.04/release/ubuntu-25.04-preinstalled-server-riscv64+unmatched.img.xz",
+                  "available": false,
+                  "status_code": 404,
+                  "error": null,
+                  "latency_ms": 484
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "zhihe-br2image-a210-evb": {
+      "distfiles": [
+        {
+          "name": "br2image-v2.8.1-a210_evb.tar.gz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://developer.zhcomputing.com/downloads/release/zhihesdk/v2.8.1/br2image-v2.8.1-a210_evb.tar.gz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 2341
+            }
+          ]
+        }
+      ]
+    },
+    "zhihe-diskimage-a210-evb-debian": {
+      "distfiles": [
+        {
+          "name": "diskimage_v2.8.1_a210-evb-release_desktop_debian_public.tar.gz",
+          "urls": [
+            {
+              "type": "normal",
+              "url": "https://developer.zhcomputing.com/downloads/release/zhihesdk/v2.8.1/diskimage_v2.8.1_a210-evb-release_desktop_debian_public.tar.gz",
+              "available": true,
+              "status_code": 200,
+              "error": null,
+              "latency_ms": 2484
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
